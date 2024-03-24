@@ -1,0 +1,1526 @@
+id#Content#Content#Content
+id#中文翻译#英文翻译#日语翻译
+int#string#string#string
+0#None#None#None
+1#开始游戏#Start#はじめから
+2#继续游戏#Continue#つづきから
+3#设置#Setting#設定
+4#制作名单#Credit#クレジット
+5#退出#Quit#おわる
+6#社区链接#Link#リンク
+7#点击任意键开始游戏#PRESS ANY KEY TO START#PRESS ANY KEY TO START
+8#是否退出游戏？#Quit the game？#ゲームを終了しますか？
+9#选择#Choose#Choose
+10#刷新 - {0}#REROLL - {0}#None
+11#武器({0}/6)#Weapons({0}/6)#None
+12#商店(波次 {0})#Shop(Wave {0})#None
+13#道具#Items#None
+14#出发(第{0}波)#Go(Wave {0})#None
+15#锁定#Lock#None
+16#通过！#Level Up#None
+17#第{0}波#Wave {0}#None
+18#属性#Stats#None
+19#主要#Primary#None
+20#次要#Secondary#None
+21#升级#Upgrade#None
+22#道具#Item#None
+23#伤害#None#None
+24#暴击#None#None
+25#概率#None#None
+26#冷却#None#None
+27#击退#None#None
+28#范围#None#None
+29#反弹#None#None
+30#贯通#None#None
+31#已获得属性:#None#None
+32#远程#None#None
+33#近战#None#None
+34#回收(+{0})#None#None
+35#合成#None#None
+36#取消#None#None
+37#发现道具！#None#None
+38#拿取#None#None
+50#目前等级#None#None
+51#最大生命值#None#None
+52#生命再生#None#None
+53#%生命窃取#None#None
+54#%伤害#None#None
+55#近战伤害#None#None
+56#远程伤害#None#None
+57#元素伤害#None#None
+58#%攻击速度#None#None
+59#%暴击率#None#None
+60#工程学#None#None
+61#范围#None#None
+62#护甲#None#None
+63#%闪避#None#None
+64#%速度#None#None
+65#幸运#None#None
+66#收获#None#None
+67#消耗性治疗#None#None
+68#%材料治疗#None#None
+69#获得%经验#None#None
+70#%拾取范围#None#None
+71#%道具价格#None#None
+72#%爆炸伤害#None#None
+73#%爆炸范围#None#None
+74#反弹#None#None
+75#贯通#None#None
+76#%贯通伤害#None#None
+77#%对BOSS的伤害#None#None
+78#燃烧速度#None#None
+79#%燃烧速度#None#None
+80#击退#None#None
+81#%几率获得双倍材料#None#None
+82#箱子里的材料#None#None
+83#免费刷新#None#None
+84#树木#None#None
+85#%敌人#None#None
+86#%敌人速度#None#None
+100#强击名字#None#None
+101#连击名字#None#None
+102#坚韧名字#None#None
+103#血液呼吸名字#None#None
+104#星空呼吸名字#None#None
+105#迅捷名字#None#None
+106#弹跳名字#None#None
+107#法术连击名字#None#None
+108#闪避术名字#None#None
+109#快速吟唱名字#None#None
+110#嘲讽名字#None#None
+111#传播毒素名字#None#None
+112#持续减速名字#None#None
+113#破法领域名字#None#None
+114#传播痛苦名字#None#None
+200#强击介绍文本#None#None
+201#连击介绍文本#None#None
+202#坚韧介绍文本#None#None
+203#血液呼吸介绍文本#None#None
+204#星空呼吸介绍文本#None#None
+205#迅捷介绍文本#None#None
+206#弹跳介绍文本#None#None
+207#法术连击介绍文本#None#None
+208#闪避术介绍文本#None#None
+209#快速吟唱介绍文本#None#None
+210#嘲讽介绍文本#None#None
+211#传播毒素介绍文本#None#None
+212#持续减速介绍文本#None#None
+213#破法领域介绍文本#None#None
+214#传播痛苦介绍文本#None#None
+300#中毒名字#None#None
+301#缓慢名字#None#None
+302#燃烧名字#None#None
+303#流血名字#None#None
+304#破法名字#None#None
+305#痛苦名字#None#None
+306#致盲名字#None#None
+307#破甲名字#None#None
+308#迷惑名字#None#None
+400#中毒介绍文本#None#None
+401#缓慢介绍文本#None#None
+402#燃烧介绍文本#None#None
+403#流血介绍文本#None#None
+404#破法介绍文本#None#None
+405#痛苦介绍文本#None#None
+406#致盲介绍文本#None#None
+407#破甲介绍文本#None#None
+408#迷惑介绍文本#None#None
+1001#树木#None#None
+1002#植物#None#None
+1003#利爪树#None#None
+1004#蛋糕#None#None
+1005#书本#None#None
+1006#失落鸭鸭#None#None
+1007#伐木工人衬衫#None#None
+1008#丑牙#None#None
+1009#背包#None#None
+1010#异形之舌#None#None
+1011#有缺陷的增强剂#None#None
+1012#外星绅士#None#None
+1013#咖啡#None#None
+1014#铅笔#None#None
+1015#螺旋桨帽#None#None
+1016#肥料#None#None
+1017#疤痕#None#None
+1018#注射剂#None#None
+1019#眼镜#None#None
+1020#蘑菇#None#None
+1021#异变#None#None
+1022#和平蜜蜂#None#None
+1023#山羊头骨#None#None
+1024#头部创伤#None#None
+1025#沸水#None#None
+1026#惊恐的洋葱#None#None
+1027#奇怪的幽灵#None#None
+1028#优惠券#None#None
+1029#柠檬水#None#None
+1030#胶带#None#None
+1031#炸药#None#None
+1032#蝴蝶#None#None
+1033#软糖狂战士#None#None
+1034#裂口#None#None
+1035#害怕的香肠#None#None
+1036#蛇#None#None
+1037#拳击手套#None#None
+1038#镜片#None#None
+1039#无檐小便帽#None#None
+1040#炮塔#None#None
+1041#蝙蝠#None#None
+1042#头盔#None#None
+1043#赛博球#None#None
+1044#木炭#None#None
+1045#惊恐的洋葱#None#None
+1046#象宝宝#None#None
+1047#毒污泥#None#None
+1048#奇怪的食物#None#None
+1049#壁虎宝宝#None#None
+1050#地雷#None#None
+1051#精神异常#None#None
+1052#异形虫#None#None
+1053#萌萌猴#None#None
+1054#刺猬#None#None
+1101#墨镜#None#None
+1102#能量手环#None#None
+1103#独轮车#None#None
+1104#旗帜#None#None
+1105#篝火#None#None
+1106#齿轮#None#None
+1107#勋章#None#None
+1108#仪式#None#None
+1109#触手#None#None
+1110#白棋#None#None
+1111#皮革背心#None#None
+1112#精湛技艺#None#None
+1113#肌肉小子#None#None
+1114#燃料箱#None#None
+1115#医疗炮塔#None#None
+1116#花园#None#None
+1117#猪猪存钱罐#None#None
+1118#酸液#None#None
+1119#阴影药水#None#None
+1120#小青蛙#None#None
+1121#血蛭#None#None
+1122#燃烧炮塔#None#None
+1123#金属探测器#None#None
+1124#磨刀石#None#None
+1125#反击#None#None
+1126#眼部手术#None#None
+1127#小型弹匣#None#None
+1128#瞄准镜#None#None
+1129#赌博代币#None#None
+1130#金属板#None#None
+1131#蜗牛#None#None
+1132#黑带#None#None
+1133#导弹#None#None
+1134#异形眼球#None#None
+1135#独眼虫#None#None
+1136#南瓜#None#None
+1137#指南针#None#None
+1138#眼罩#None#None
+1139#危险的兔子#None#None
+1140#回收装置#None#None
+1141#诱饵#None#None
+1201#头巾#None#None
+1202#悲伤的番茄#None#None
+1203#义警戒指#None#None
+1204#工具箱#None#None
+1205#变色龙#None#None
+1206#献血#None#None
+1207#小麦#None#None
+1208#幼年异形#None#None
+1209#毒性补品#None#None
+1210#修穆糖#None#None
+1211#外星魔法#None#None
+1212#流浪机器人#None#None
+1213#路障#None#None
+1214#圆顶礼帽#None#None
+1215#手铐#None#None
+1216#奇怪之书#None#None
+1217#士兵头盔#None#None
+1218#激光炮塔#None#None
+1219#泰勒#None#None
+1220#长胡子的婴儿#None#None
+1221#雕像#None#None
+1222#狂怒#None#None
+1223#王冠#None#None
+1224#水熊虫#None#None
+1225#豆老师#None#None
+1226#翅膀#None#None
+1227#三角之力#None#None
+1228#蜡烛#None#None
+1229#玻璃大炮#None#None
+1230#智慧#None#None
+1231#发电机#None#None
+1232#社区支持#None#None
+1233#合金#None#None
+1234#护身符#None#None
+1235#塑性炸药#None#None
+1236#狩猎战利品#None#None
+1237#拖拉机#None#None
+1238#鳍#None#None
+1239#老鼠#None#None
+1240#肾上腺素#None#None
+1241#银质子弹#None#None
+1242#孔雀#None#None
+1243#改进工具#None#None
+1301#重型子弹#None#None
+1302#蜘蛛#None#None
+1303#喷气背包#None#None
+1304#斗篷#None#None
+1305#外骨骼#None#None
+1306#土豆#None#None
+1307#再生药水#None#None
+1308#熊猫#None#None
+1309#夜视镜#None#None
+1310#机械臂#None#None
+1311#爆裂弹#None#None
+1312#猛犸#None#None
+1313#爆炸炮塔#None#None
+1314#铁砧#None#None
+1315#Sifd的圣物#None#None
+1316#拷问#None#None
+1317#巨臂#None#None
+1318#地精#None#None
+1319#执照#None#None
+1320#焦点#None#None
+1321#Grind的魔法绿叶#None#None
+1322#章鱼#None#None
+1323#野狼头盔#None#None
+1324#跳弹#None#None
+1325#急救包#None#None
+1326#Esty的沙发#None#None
+1327#Retromation的连帽衫#None#None
+1328#另一个胃#None#None
+1329#巨型带#None#None
+1330#血淋淋的手#None#None
+1331#幸运硬币#None#None
+2001#生成更多树木#None#None
+2002#<color=~00FF00>+3</color> 生命再生\n<color=~FF0000>-1</color> %生命窃取#None#None
+2003#<color=~00FF00>+1</color> 近战伤害\n<color=~00FF00>+3</color> %暴击率\n<color=~FF0000>-1</color> 最大生命值#None#None
+2004#<color=~00FF00>+3</color> 最大生命值\n<color=~FF0000>-1</color> %伤害#None#None
+2005#<color=~00FF00>+1</color> 工程学#None#None
+2006#<color=~00FF00>+10</color> 幸运\n<color=~FF0000>-1</color> 属性伤害#None#None
+2007#树木能被一击致命#None#None
+2008#命中敌人时能使其降低<color=~00FF00>10%</color>速度，最高<color=~00FF00>30%</color>\n<color=~FF0000>-3</color> %速度#None#None
+2009#拾取箱子时<color=~00FF00>+15</color>材料\n<color=~FF0000>-1</color> %速度#None#None
+2010#拾取范围<color=~00FF00>+30%</color>#None#None
+2011#<color=~00FF00>+2</color> 最大生命值\n<color=~00FF00>+2</color> 近战伤害\n<color=~FF0000>-3</color> %攻击速度#None#None
+2012#<color=~00FF00>+2</color> 最大生命值\n<color=~00FF00>+5</color> %伤害\n+5 %敌人#None#None
+2013#<color=~00FF00>+10</color> %攻击速度\n<color=~FF0000>-2</color> %伤害#None#None
+2014#<color=~00FF00>+2</color> 工程学\n<color=~FF0000>-1</color> %攻击速度\n<color=~FF0000>-1</color> %暴击率#None#None
+2015#<color=~00FF00>+10</color> 幸运\n<color=~FF0000>-2</color> %伤害#None#None
+2016#<color=~00FF00>+8</color> 收获\n<color=~FF0000>-1</color> 近战伤害#None#None
+2017#<color=~00FF00>+20</color> 获得%经验\n<color=~FF0000>-8</color> 范围#None#None
+2018#<color=~00FF00>+7</color> %伤害\n<color=~FF0000>-2</color> 最大生命值#None#None
+2019#<color=~00FF00>+20</color> 范围#None#None
+2020#<color=~00FF00>+3</color> 生命再生\n<color=~FF0000>-2</color> 幸运#None#None
+2021#<color=~00FF00>+1</color> 远程伤害\n<color=~00FF00>+1</color> 属性伤害\n<color=~FF0000>-3</color> %速度#None#None
+2022#<color=~00FF00>+4</color> %闪避\n<color=~00FF00>+4</color> 收获\n<color=~FF0000>-1</color> 近战伤害\n<color=~FF0000>-1</color> 远程伤害#None#None
+2023#<color=~00FF00>+3</color> 近战伤害\n<color=~FF0000>-2</color> %暴击率#None#None
+2024#<color=~00FF00>+6</color> %伤害\n<color=~FF0000>-8</color> 范围#None#None
+2025#<color=~00FF00>+2</color> 属性伤害\n<color=~FF0000>-1</color> 最大生命值#None#None
+2026#<color=~00FF00>+4</color> %速度\n<color=~FF0000>-8</color> 幸运#None#None
+2027#<color=~00FF00>+3</color> 最大生命值\n下场敌袭以1点生命值开始#None#None
+2028#<color=~00FF00>-5%</color> 道具价格#None#None
+2029#使用消耗品恢复<color=~00FF00>+1</color>HP#None#None
+2030#<color=~00FF00>+1</color> 护甲\n<color=~00FF00>+1</color> 工程学\n<color=~FF0000>-2</color> 最大生命值#None#None
+2031#<color=~00FF00>+15%</color> 爆炸伤害#None#None
+2032#<color=~00FF00>+2</color> %生命窃取\n<color=~FF0000>-1</color> 属性伤害#None#None
+2033#<color=~00FF00>+5</color> %攻击速度\n<color=~00FF00>+15</color> 范围\n<color=~FF0000>-1</color> 护甲#None#None
+2034#<color=~00FF00>+5</color> 最大生命值\n<color=~FF0000>-1</color> 生命再生#None#None
+2035#攻击有<color=~00FF00>25%</color>几率造成<color=~00FF00>5</color>x<color=~00FF00>[@1*属性伤害]</color>(<sprite=14>)的燃烧伤害#None#None
+2036#燃烧蔓延至附近的一名敌人\n<color=~FF0000>-1</color> 最大生命值#None#None
+2037#<color=~00FF00>+3</color> 击退#None#None
+2038#<color=~00FF00>+1</color> 远程伤害\n<color=~FF0000>-8</color> 范围#None#None
+2039#<color=~00FF00>+4</color> %速度\n<color=~FF0000>-8</color> 范围#None#None
+2040#生成一台炮塔，造成<color=~00FF00>[@0.8*工程学]</color>(80%<sprite=15>)伤害#None#None
+2041#<color=~00FF00>+2</color> %生命窃取\n<color=~FF0000>-2</color> 收获#None#None
+2042#<color=~00FF00>+1</color> 护甲\n<color=~FF0000>-2</color> %速度#None#None
+2043#敌人死亡时有<color=~00FF00>25%</color>概率对随机1名敌人造成<color=~00FF00>[@0.25*幸运]</color>(25%<sprite=9>)伤害#None#None
+2044#<color=~00FF00>+1</color> 属性伤害\n<color=~00FF00>+2</color> 近战伤害\n<color=~FF0000>-2</color> 收获#None#None
+2045#<color=~00FF00>+4</color> %速度\n<color=~FF0000>-6</color> 幸运#None#None
+2046#拾取材料时有<color=~00FF00>25%</color>概率对随机1名敌人造成<color=~00FF00>[@0.25*幸运]</color>(25%<sprite=9>)伤害#None#None
+2047#<color=~00FF00>+2</color> 属性伤害\n<color=~FF0000>-2</color> %闪避#None#None
+2048#使用消耗品恢复<color=~00FF00>+2</color>HP\n<color=~FF0000>-2</color> %闪避#None#None
+2049#有<color=~00FF00>+20%</color>概率立即吸收掉落的材料\n<color=~FF0000>-1</color> %生命窃取#None#None
+2050#每<color=~00FF00>12</color>秒生成一颗地雷。造成<color=~00FF00>[@1*工程学]</color>(<sprite=15>)点范围伤害。#None#None
+2051#<color=~00FF00>+6</color> %暴击率\n<color=~FF0000>-3</color> %伤害#None#None
+2052#<color=~00FF00>+3</color> 最大生命值\n<color=~00FF00>+2</color> 生命再生\n使用消耗品恢复<color=~FF0000>-1</color>HP#None#None
+2053#拾取材料时有<color=~00FF00>+8%</color>概率恢复1点生命\n<color=~FF0000>-1</color> 远程伤害#None#None
+2054#<color=~00FF00>+2</color> 近战伤害\n<color=~00FF00>+1</color> 远程伤害\n<color=~FF0000>-1</color> 生命再生#None#None
+2101#<color=~00FF00>+10</color> %暴击率\n<color=~FF0000>-1</color> 护甲#None#None
+2102#<color=~00FF00>+4</color> %暴击率\n<color=~00FF00>+2</color> 属性伤害\n<color=~FF0000>-2</color> 远程伤害#None#None
+2103#<color=~00FF00>+16</color> 收获\n<color=~FF0000>-1</color> 护甲#None#None
+2104#<color=~00FF00>+20</color> 范围\n<color=~00FF00>+10</color> %攻击速度\n<color=~FF0000>-2</color> %生命窃取#None#None
+2105#<color=~00FF00>+2</color> 属性伤害\n<color=~00FF00>+2</color> 生命再生\n<color=~FF0000>-2</color> %速度#None#None
+2106#<color=~00FF00>+4</color> 工程学\n<color=~FF0000>-4</color> %伤害#None#None
+2107#<color=~00FF00>+3</color> 最大生命值\n<color=~00FF00>+3</color> %伤害\n<color=~00FF00>+1</color> 护甲\n<color=~00FF00>+3</color> %速度\n<color=~FF0000>-4</color> %暴击率#None#None
+2108#<color=~00FF00>+6</color> %伤害\n<color=~00FF00>+2</color> %生命窃取\n<color=~FF0000>-2</color> 工程学#None#None
+2109#<color=~00FF00>+3</color> %暴击率\n暴击杀死敌人时有<color=~00FF00>+20%</color>概率治疗一点生命值#None#None
+2110#<color=~00FF00>+5</color> 收获\n-5% 敌人#None#None
+2111#<color=~00FF00>+2</color> %护甲\n<color=~00FF00>+6</color> %闪避\n<color=~FF0000>-3</color> 最大生命值#None#None
+2112#<color=~00FF00>+6</color> 近战伤害\n<color=~FF0000>-3</color> 远程伤害#None#None
+2113#<color=~00FF00>+3</color> 近战伤害\n<color=~00FF00>+5</color> 最大生命值\n<color=~FF0000>-15</color> 范围#None#None
+2114#<color=~00FF00>+4</color> 属性伤害\n<color=~00FF00>-1</color> 近战伤害\n<color=~FF0000>-1</color> 远程伤害#None#None
+2115#生成1台医疗炮塔，恢复<color=~00FF00>[@0.1*工程学]</color> (10%<sprite=15>) 生命值#None#None
+2116#生成一个花园，每<color=~00FF00>15</color>秒可以结下一种水果#None#None
+2117#敌袭开始时<color=~00FF00>+20%</color>材料#None#None
+2118#<color=~00FF00>+6</color> 最大生命值\n<color=~FF0000>-4</color> 闪避#None#None
+2119#<color=~00FF00>+20</color> 幸运\n<color=~FF0000>-2</color> 生命再生#None#None
+2120#拾取范围<color=~00FF00>+20%</color>\n<color=~00FF00>+10</color> 收获\n<color=~FF0000>-5</color> %闪避#None#None
+2121#<color=~00FF00>+2</color> %生命窃取\n<color=~00FF00>+2</color> %生命再生\n<color=~FF0000>-5</color> 收获#None#None
+2122#生成1台燃烧炮塔，造成<color=~00FF00>[@1*属性伤害]</color> (<sprite=14>) 燃烧伤害#None#None
+2123#拾取材料时有<color=~00FF00>+5%</color>概率使其价值翻倍\n<color=~00FF00>+6</color> 幸运\n<color=~00FF00>+2</color> 工程学\n<color=~FF0000>-5</color> %伤害#None#None
+2124#<color=~00FF00>+4</color> %生命窃取\n<color=~FF0000>-3</color> 击退#None#None
+2125#<color=~00FF00>+2</color> 近战伤害\n在躲避敌人攻击时有<color=~00FF00>50%</color>概率对随机一名敌人造成<color=~00FF00>3*[@近战伤害]</color>(300%<sprite=8>)#None#None
+2126#燃烧速度提高<color=~00FF00>10%</color>\n<color=~00FF00>-10</color> 范围#None#None
+2127#<color=~00FF00>+2</color> 远程伤害\n<color=~00FF00>+10</color> %攻击速度\n<color=~FF0000>-5</color> %伤害#None#None
+2128#<color=~00FF00>+2</color> 远程伤害\n<color=~00FF00>+25</color> 范围\n<color=~FF0000>-7</color> %攻击速度#None#None
+2129#<color=~00FF00>+8</color> %闪避\n<color=~FF0000>-1</color> 护甲#None#None
+2130#<color=~00FF00>+2</color> 护甲\n<color=~FF0000>-3</color> %伤害#None#None
+2131#<color=~00FF00>+2</color> 远程伤害\n<color=~00FF00>+25</color> 范围\n<color=~FF0000>-7</color> %攻击速度#None#None
+2132#<color=~00FF00>+25</color> %获得经验\n<color=~00FF00>+3</color> 近战伤害\n<color=~FF0000>-8</color> 幸运#None#None
+2133#<color=~00FF00>+10</color> %伤害\n<color=~FF0000>-5</color> %攻击速度#None#None
+2134#每5秒向周围发射<color=~00FF00>6</color>颗异形眼球，每颗眼球造成<color=~00FF00>0.5*[@最大生命值]</color>(50%<sprite=3>)伤害#None#None
+2135#<color=~00FF00>+12</color> %伤害\n<color=~FF0000>-12</color> 范围#None#None
+2136#<color=~00FF00>+15%</color>贯通伤害，不会高于基础伤害\n<color=~FF0000>-2</color> %伤害#None#None
+2137#<color=~00FF00>+5</color> %速度\n<color=~00FF00>+3</color> 工程学\n<color=~FF0000>-3</color> %暴击率#None#None
+2138#<color=~00FF00>+5</color> %暴击率\n<color=~00FF00>+5</color> %闪避\n<color=~FF0000>-15</color> 范围#None#None
+2139#商店免费刷新<color=~00FF00>+1</color>次#None#None
+2140#回收道具时额外获得<color=~00FF00>35%</color>个材料#None#None
+2141#<color=~00FF00>+8</color> %伤害\n下场敌袭一开始会出现特殊敌人#None#None
+2201#投射物贯通<color=~00FF00>1</color>个额外目标\n<color=~FF0000>-10</color> %伤害#None#None
+2202#<color=~FF0000>+8</color> %生命再生\n以<color=~FF0000>-50%</color>生命值开始敌袭#None#None
+2203#敌袭结束后<color=~FF0000>+3%伤害</color>#None#None
+2204#<color=~00FF00>+6</color> 工程学\n<color=~FF0000>-6</color> %攻击速度#None#None
+2205#<color=~00FF00>+3</color> %闪避\n当站立不动时<color=~00FF00>+20%闪避</color>\n<color=~FF0000>-4</color> %伤害#None#None
+2206#<color=~00FF00>+40</color> 收获\n每秒受到<color=~FF0000>1</color>伤害(不给予无敌时间)#None#None
+2207#<color=~00FF00>+4</color> 近战伤害\n<color=~00FF00>+2</color> 远程伤害\n<color=~00FF00>+10</color> 收获\n<color=~FF0000>-2</color> 元素伤害#None#None
+2208#<color=~00FF00>+15</color> 最大生命值\n<color=~FF0000>-8</color> %敌人速度#None#None
+2209#<color=~00FF00>+10</color> %攻击速度\n<color=~00FF00>+5</color> %暴击率\n<color=~00FF00>+15</color> 范围\n<color=~FF0000>-2</color> 生命再生#None#None
+2210#<color=~00FF00>+6</color> 最大生命值\n<color=~00FF00>+2</color> 生命再生\n<color=~FF0000>-2</color> 近战伤害\n<color=~FF0000>-1</color> 远程伤害#None#None
+2211#<color=~00FF00>+8</color> 最大生命值\n<color=~00FF00>+3</color> 生命再生\n<color=~FF0000>-8</color> 幸运#None#None
+2212#生成1个小型机器人，使周围敌人减速#None#None
+2213#当站立不动时<color=~00FF00>+8护甲</color>\n<color=~FF0000>-5</color> %速度#None#None
+2214#<color=~00FF00>+15</color> 幸运\n<color=~00FF00>+18</color> 收获\n<color=~FF0000>-5</color> %攻击速度\n<color=~FF0000>-5</color> %暴击率#None#None
+2215#<color=~00FF00>+8</color> 近战伤害\n<color=~00FF00>+8</color> 远程伤害\n<color=~00FF00>+8</color> 属性伤害\n你的最大生命值现在以[<color=~00FF00>[@最大生命值]</color>]为上限#None#None
+2216#每<color=~00FF00>1元素伤害</color>会<color=~00FF00>+1工程学</color>[</color>+[@元素伤害]<color=~00FF00>]\n<color=~00FF00>-1</color> 近战伤害\n<color=~00FF00>-1</color> 远程伤害#None#None
+2217#<color=~00FF00>+3</color> 护甲\n<color=~00FF00>+5</color> 最大生命值\n<color=~FF0000>-5</color> %速度#None#None
+2218#生成1台发射器贯通弹的炮塔，造成<color=~00FF00>1.5*[@工程学]</color>(150%<sprite=15>)伤害#None#None
+2219#生成向周围缓慢发射<color=~00FF00>10</color>枚贯通雷电投射物的小伙伴，每枚投射物造成<color=~00FF00>[@工程学]</color>(<sprite=15>)伤害#None#None
+2220#当敌人死亡时，发射一枚能造成<color=~00FF00>[@远程伤害]</color>(<sprite=11>)伤害的子弹\n<color=~FF0000>-50</color> 范围#None#None
+2221#当站立不动时<color=~00FF00>+30攻击速度</color>\n<color=~FF0000>-10</color> %速度#None#None
+2222#敌人死亡时有<color=~00FF00>20%</color>概率爆炸，造成<color=~00FF00>0.5*[@近战伤害]</color>(50%<sprite=8>)伤害#None#None
+2223#敌袭结束时，收获提高<color=~00FF00>8%</color>#None#None
+2224#在每一波敌袭中会抵消受到的攻击伤害#None#None
+2225#<color=~00FF00>+40</color> %获得经验\n<color=~FF0000>-2</color> %生命窃取#None#None
+2226#<color=~00FF00>+10</color> %速度\n<color=~00FF00>+30</color> 范围\n<color=~FF0000>-2</color> 属性伤害#None#None
+2227#<color=~00FF00>+20</color> %伤害\n<color=~00FF00>+1</color> 护甲\n受到攻击时<color=~FF0000>-2%伤害</color>，直至敌袭结束#None#None
+2228#<color=~00FF00>+4</color> 属性伤害\n<color=~00FF00>+1</color> 生命再生\n-10% 敌人\n<color=~FF0000>-5</color> %伤害#None#None
+2229#<color=~00FF00>+25</color> %伤害\n<color=~FF0000>-3</color> 护甲#None#None
+2230#每5秒<color=~00FF00>+5%伤害</color>，直至敌袭结束\n<color=~FF0000>-20</color> %伤害#None#None
+2231#每<color=~00FF00>1%速度</color>会<color=~00FF00>+1%伤害</color>[<color=~00FF00>+100*[@速度]</color>]\n<color=~FF0000>-5</color> %伤害#None#None
+2232#目前每一个存活的敌人<color=~00FF00>+1%攻击速度</color>[<color=~00FF00>+[@敌人数量]</color>]\n<color=~FF0000>-2</color> 护甲#None#None
+2233#<color=~00FF00>+3</color> 近战伤害\n<color=~00FF00>+3</color> 远程伤害\n<color=~00FF00>+3</color> 工程学\n<color=~00FF00>+5</color> %暴击率\n<color=~FF0000>-6</color> %闪避#None#None
+2234#<color=~00FF00>+30</color> 幸运\n<color=~FF0000>-2</color> 近战伤害\n<color=~FF0000>-1</color> 远程伤害#None#None
+2235#<color=~00FF00>+25</color> 爆炸范围#None#None
+2236#以暴击杀死敌人时有<color=~00FF00>33%</color>概率获得1个材料#None#None
+2237#<color=~00FF00>+40</color> 收获\n<color=~FF0000>-8</color> %伤害#None#None
+2238#<color=~00FF00>+10</color> %速度\n<color=~00FF00>+3</color> %生命窃取\n<color=~FF0000>-8</color> 幸运#None#None
+2239#<color=~00FF00>+5</color> %生命窃取\n+10% 敌人\n<color=~FF0000>-5</color> 收获#None#None
+2240#<color=~00FF00>+5</color> %闪避\n在躲避攻击时有<color=~00FF00>50%</color>几率恢复<color=~00FF00>5</color>点生命值#None#None
+2241#对头目和精英怪造成<color=~00FF00>+25%</color>伤害#None#None
+2242#<color=~00FF00>+25</color> %获得经验\n下场敌袭期间<color=~00FF00>+100 %获得经验</color>\n下场敌袭期间\n<color=~FF0000>+50 %敌人伤害</color>#None#None
+2243#None#None#None
+2301#<color=~00FF00>+5</color> 远程伤害\n<color=~00FF00>+10</color> %伤害\n<color=~00FF00>+10</color> 范围\n<color=~FF0000>-10</color> %攻击速度\n<color=~FF0000>-5</color> %暴击率#None#None
+2302#<color=~00FF00>+12</color> %伤害\n持有每一异种武器<color=~00FF00>+6%攻击速度</color>[<color=~00FF00>+6*[@不同武器数量]</color>]\n<color=~FF0000>-6</color> %闪避\n<color=~FF0000>-8</color> 收获#None#None
+2303#<color=~00FF00>+15</color> %速度\n<color=~00FF00>+10</color> %闪避\n<color=~FF0000>-6</color> 最大生命值\n<color=~FF0000>-2</color> 护甲#None#None
+2304#<color=~00FF00>+5</color> %生命窃取\n<color=~00FF00>+20</color> %闪避\n<color=~FF0000>-2</color> 近战伤害\n<color=~FF0000>-2</color> 远程伤害\n<color=~FF0000>-2</color> 属性伤害#None#None
+2305#<color=~00FF00>+5</color> 护甲\n<color=~00FF00>+5</color> %暴击率\n<color=~00FF00>+5</color> 工程学\n<color=~00FF00>+5</color> %速度\n<color=~FF0000>-2</color> 生命再生\n<color=~FF0000>-2</color> %生命窃取#None#None
+2306#<color=~00FF00>+3</color> 最大生命值\n<color=~00FF00>+1</color> 生命再生\n<color=~00FF00>+1</color> %生命窃取\n<color=~00FF00>+3</color> %伤害\n<color=~00FF00>+3</color> %速度\n<color=~00FF00>+3</color> %闪避\n<color=~00FF00>+1</color> 护甲\n<color=~00FF00>+5</color> 幸运#None#None
+2307#当生命值低于50%时，生命再生双倍\n<color=~00FF00>+3</color> 生命再生#None#None
+2308#<color=~00FF00>+12</color> 最大生命值\n<color=~00FF00>+25</color> 幸运\n<color=~FF0000>-12</color> %伤害#None#None
+2309#<color=~00FF00>+15</color> %暴击率\n<color=~00FF00>+50</color> 范围\n<color=~FF0000>-3</color> 最大生命值\n<color=~FF0000>-2</color> 护甲#None#None
+2310#<color=~00FF00>+6</color> 护甲\n<color=~00FF00>+6</color> 工程学\n<color=~FF0000>-3</color> 生命再生\n<color=~FF0000>-3</color> %生命窃取#None#None
+2311#<color=~00FF00>+60</color> %爆炸伤害\n<color=~FF0000>-15</color> %伤害#None#None
+2312#<color=~00FF00>+15</color> 近战伤害\n<color=~00FF00>+2</color> 生命再生\n<color=~FF0000>-8</color> %伤害\n<color=~FF0000>-3</color> %速度#None#None
+2313#生成1台发射器爆破弹的炮塔，造成<color=~00FF00>1.5*[@工程学]</color>(150%<sprite=15>) 范围伤害#None#None
+2314#进入商店时，会随机升级一把武器。如果无武器可升级，则可获得<color=~00FF00>+2护甲</color>。#None#None
+2315#有<color=~00FF00>+100%</color>概率立即吸收掉落的材料#None#None
+2316#<color=~00FF00>+15</color> 最大生命值\n每秒回复4生命值，但无法通过其他途径恢复生命值。#None#None
+2317#<color=~00FF00>+10</color> 近战伤害\n<color=~00FF00>+5</color> 远程伤害\n<color=~FF0000>-2</color> 护甲\n<color=~FF0000>-5</color> %速度#None#None
+2318#<color=~00FF00>+10</color> 近战伤害\n<color=~00FF00>+5</color> 属性伤害\n<color=~FF0000>-20</color> 范围\n拾取范围<color=~FF0000>-20%</color>#None#None
+2319#<color=~00FF00>+10</color> 工程学\n<color=~00FF00>+10</color> %获得经验\n<color=~FF0000>-3</color> 最大生命值#None#None
+2320#<color=~00FF00>+30</color> %伤害\n每持有1件武器<color=~FF0000>-3%攻击速度</color>#None#None
+2321#敌袭结束后<color=~00FF00>+3最大生命值</color>\n敌袭结束后<color=~00FF00>+1生命再生</color>\n敌袭结束后<color=~00FF00>+1%生命窃取</color>#None#None
+2322#<color=~00FF00>+12</color> 最大生命值\n<color=~00FF00>+5</color> %生命窃取\n<color=~FF0000>-8</color> %暴击率#None#None
+2323#<color=~00FF00>+8</color> 属性伤害\n<color=~00FF00>+15</color> 幸运\n<color=~FF0000>-5</color> 工程学#None#None
+2324#你的投射物获得<color=~00FF00>1</color>次反弹\n<color=~FF0000>-35</color> %伤害#None#None
+2325#<color=~00FF00>+10</color> 生命再生\n<color=~FF0000>-10</color> 幸运#None#None
+2326#<color=~00FF00>+5</color> 最大生命值\n每<color=~FF0000>-1%速度</color>会<color=~00FF00>+2生命再生</color>[<color=~00FF00>-200*[@速度]</color>]\n<color=~FF0000>-15</color> %速度#None#None
+2327#每<color=~FF0000>1%闪避</color>会<color=~00FF00>+2%攻击速度</color>[<color=~00FF00>+200*[@闪避]</color>]\n<color=~FF0000>-80</color> 范围#None#None
+2328#当在最大生命值下捡起一个消耗品时<color=~00FF00>+1最大生命值</color>。每波最大值:<color=~00FF00>+10</color>#None#None
+2329#None#None#None
+2330#<color=~00FF00>+12</color> %生命窃取\n每<color=~00FF00>1%生命窃取</color>会<color=~00FF00>+2%伤害</color>[<color=~00FF00>+200*[@生命窃取]</color>]\n每秒受到<color=~FF0000>1</color>伤害(不给予无敌时间)#None#None
+2331#每<color=~00FF00>1%暴击率</color>会<color=~00FF00>+2幸运</color>[<color=~00FF00>+200*[@暴击率]</color>]\n<color=~FF0000>-2</color> 护甲#None#None
+3001#心脏#None#None
+3002#心脏Ⅱ#None#None
+3003#心脏Ⅲ#None#None
+3004#心脏Ⅳ#None#None
+3005#前臂#None#None
+3006#前臂Ⅱ#None#None
+3007#前臂Ⅲ#None#None
+3008#前臂Ⅳ#None#None
+3009#眼睛#None#None
+3010#眼睛Ⅱ#None#None
+3011#眼睛Ⅲ#None#None
+3012#眼睛Ⅳ#None#None
+3013#胸#None#None
+3014#胸Ⅱ#None#None
+3015#胸Ⅲ#None#None
+3016#胸Ⅳ#None#None
+3017#手#None#None
+3018#手Ⅱ#None#None
+3019#手Ⅲ#None#None
+3020#手Ⅳ#None#None
+3021#肩膀#None#None
+3022#肩膀Ⅱ#None#None
+3023#肩膀Ⅲ#None#None
+3024#肩膀Ⅳ#None#None
+3025#牙齿#None#None
+3026#牙齿Ⅱ#None#None
+3027#牙齿Ⅲ#None#None
+3028#牙齿Ⅳ#None#None
+3029#鼻子#None#None
+3030#鼻子Ⅱ#None#None
+3031#鼻子Ⅲ#None#None
+3032#鼻子Ⅳ#None#None
+3033#背#None#None
+3034#背Ⅱ#None#None
+3035#背Ⅲ#None#None
+3036#背Ⅳ#None#None
+3037#腿#None#None
+3038#腿Ⅱ#None#None
+3039#腿Ⅲ#None#None
+3040#腿Ⅳ#None#None
+3041#头骨#None#None
+3042#头骨Ⅱ#None#None
+3043#头骨Ⅲ#None#None
+3044#头骨Ⅳ#None#None
+3045#肺#None#None
+3046#肺Ⅱ#None#None
+3047#肺Ⅲ#None#None
+3048#肺Ⅳ#None#None
+3049#手指#None#None
+3050#手指Ⅱ#None#None
+3051#手指Ⅲ#None#None
+3052#手指Ⅳ#None#None
+3053#脑#None#None
+3054#脑Ⅱ#None#None
+3055#脑Ⅲ#None#None
+3056#脑Ⅳ#None#None
+3057#三头肌#None#None
+3058#三头肌Ⅱ#None#None
+3059#三头肌Ⅲ#None#None
+3060#三头肌Ⅳ#None#None
+3061#反应能力#None#None
+3062#反应能力Ⅱ#None#None
+3063#反应能力Ⅲ#None#None
+3064#反应能力Ⅳ#None#None
+3101#<color=~00FF00>+3</color> 最大生命值#None#None
+3102#<color=~00FF00>+6</color> 最大生命值#None#None
+3103#<color=~00FF00>+9</color> 最大生命值#None#None
+3104#<color=~00FF00>+12</color> 最大生命值#None#None
+3105#<color=~00FF00>+2</color> 近战伤害#None#None
+3106#<color=~00FF00>+4</color> 近战伤害#None#None
+3107#<color=~00FF00>+6</color> 近战伤害#None#None
+3108#<color=~00FF00>+8</color> 近战伤害#None#None
+3109#<color=~00FF00>+15</color> 范围#None#None
+3110#<color=~00FF00>+30</color> 范围#None#None
+3111#<color=~00FF00>+45</color> 范围#None#None
+3112#<color=~00FF00>+60</color> 范围#None#None
+3113#<color=~00FF00>+1</color> 护甲#None#None
+3114#<color=~00FF00>+2</color> 护甲#None#None
+3115#<color=~00FF00>+3</color> 护甲#None#None
+3116#<color=~00FF00>+4</color> 护甲#None#None
+3117#<color=~00FF00>+5</color> 收获#None#None
+3118#<color=~00FF00>+8</color> 收获#None#None
+3119#<color=~00FF00>+10</color> 收获#None#None
+3120#<color=~00FF00>+12</color> 收获#None#None
+3121#<color=~00FF00>+1</color> 远程伤害#None#None
+3122#<color=~00FF00>+2</color> 远程伤害#None#None
+3123#<color=~00FF00>+3</color> 远程伤害#None#None
+3124#<color=~00FF00>+4</color> 远程伤害#None#None
+3125#<color=~00FF00>+1</color> %生命窃取#None#None
+3126#<color=~00FF00>+2</color> %生命窃取#None#None
+3127#<color=~00FF00>+3</color> %生命窃取#None#None
+3128#<color=~00FF00>+4</color> %生命窃取#None#None
+3129#<color=~00FF00>+5</color> 幸运#None#None
+3130#<color=~00FF00>+10</color> 幸运#None#None
+3131#<color=~00FF00>+15</color> 幸运#None#None
+3132#<color=~00FF00>+20</color> 幸运#None#None
+3133#<color=~00FF00>+3</color> %闪避#None#None
+3134#<color=~00FF00>+6</color> %闪避#None#None
+3135#<color=~00FF00>+9</color> %闪避#None#None
+3136#<color=~00FF00>+12</color> %闪避#None#None
+3137#<color=~00FF00>+3</color> %速度#None#None
+3138#<color=~00FF00>+6</color> %速度#None#None
+3139#<color=~00FF00>+9</color> %速度#None#None
+3140#<color=~00FF00>+12</color> %速度#None#None
+3141#<color=~00FF00>+2</color> 工程学#None#None
+3142#<color=~00FF00>+3</color> 工程学#None#None
+3143#<color=~00FF00>+4</color> 工程学#None#None
+3144#<color=~00FF00>+5</color> 工程学#None#None
+3145#<color=~00FF00>+2</color> 生命再生#None#None
+3146#<color=~00FF00>+3</color> 生命再生#None#None
+3147#<color=~00FF00>+4</color> 生命再生#None#None
+3148#<color=~00FF00>+5</color> 生命再生#None#None
+3149#<color=~00FF00>+3</color> %暴击率#None#None
+3150#<color=~00FF00>+5</color> %暴击率#None#None
+3151#<color=~00FF00>+7</color> %暴击率#None#None
+3152#<color=~00FF00>+9</color> %暴击率#None#None
+3153#<color=~00FF00>+1</color> 元素伤害#None#None
+3154#<color=~00FF00>+2</color> 元素伤害#None#None
+3155#<color=~00FF00>+3</color> 元素伤害#None#None
+3156#<color=~00FF00>+4</color> 元素伤害#None#None
+3157#<color=~00FF00>+5</color> %伤害#None#None
+3158#<color=~00FF00>+8</color> %伤害#None#None
+3159#<color=~00FF00>+12</color> %伤害#None#None
+3160#<color=~00FF00>+16</color> %伤害#None#None
+3161#<color=~00FF00>+5</color> %攻击速度#None#None
+3162#<color=~00FF00>+10</color> %攻击速度#None#None
+3163#<color=~00FF00>+15</color> %攻击速度#None#None
+3164#<color=~00FF00>+20</color> %攻击速度#None#None
+4001#拳#None#None
+4002#拳Ⅱ#None#None
+4003#拳Ⅲ#None#None
+4004#拳Ⅳ#None#None
+4005#利爪#None#None
+4006#利爪Ⅱ#None#None
+4007#利爪Ⅲ#None#None
+4008#利爪Ⅳ#None#None
+4009#掌#None#None
+4010#掌Ⅱ#None#None
+4011#掌Ⅲ#None#None
+4012#掌Ⅳ#None#None
+4013#树枝#None#None
+4014#树枝Ⅱ#None#None
+4015#树枝Ⅲ#None#None
+4016#树枝Ⅳ#None#None
+4017#刺棍#None#None
+4018#刺棍Ⅱ#None#None
+4019#刺棍Ⅲ#None#None
+4020#刺棍Ⅳ#None#None
+4021#格斗棍#None#None
+4022#格斗棍Ⅱ#None#None
+4023#格斗棍Ⅲ#None#None
+4024#格斗棍Ⅳ#None#None
+4025#短斧#None#None
+4026#短斧Ⅱ#None#None
+4027#短斧Ⅲ#None#None
+4028#短斧Ⅳ#None#None
+4029#矛#None#None
+4030#矛Ⅱ#None#None
+4031#矛Ⅲ#None#None
+4032#矛Ⅳ#None#None
+4033#小刀#None#None
+4034#小刀Ⅱ#None#None
+4035#小刀Ⅲ#None#None
+4036#小刀Ⅳ#None#None
+4037#雷光刀#None#None
+4038#雷光刀Ⅱ#None#None
+4039#雷光刀Ⅲ#None#None
+4040#雷光刀Ⅳ#None#None
+4041#剪刀#None#None
+4042#剪刀Ⅱ#None#None
+4043#剪刀Ⅲ#None#None
+4044#剪刀Ⅳ#None#None
+4045#盗贼匕首#None#None
+4046#盗贼匕首Ⅱ#None#None
+4047#盗贼匕首Ⅲ#None#None
+4048#盗贼匕首Ⅳ#None#None
+4049#圆锯#None#None
+4050#圆锯Ⅱ#None#None
+4051#圆锯Ⅲ#None#None
+4052#圆锯Ⅳ#None#None
+4053#砍刀#None#None
+4054#砍刀Ⅱ#None#None
+4055#砍刀Ⅲ#None#None
+4056#砍刀Ⅳ#None#None
+4057#雷剑#None#None
+4058#雷剑Ⅱ#None#None
+4059#雷剑Ⅲ#None#None
+4060#雷剑Ⅳ#None#None
+4061#剑#None#None
+4062#剑Ⅱ#None#None
+4063#剑Ⅲ#None#None
+4064#剑Ⅳ#None#None
+4065#火把#None#None
+4066#火把Ⅱ#None#None
+4067#火把Ⅲ#None#None
+4068#火把Ⅳ#None#None
+4069#等离子大锤#None#None
+4070#等离子大锤Ⅱ#None#None
+4071#等离子大锤Ⅲ#None#None
+4072#等离子大锤Ⅳ#None#None
+4073#烈焰黄铜指虎#None#None
+4074#烈焰黄铜指虎Ⅱ#None#None
+4075#烈焰黄铜指虎Ⅲ#None#None
+4076#烈焰黄铜指虎Ⅳ#None#None
+4077#强拳#None#None
+4078#强拳Ⅱ#None#None
+4079#强拳Ⅲ#None#None
+4080#强拳Ⅳ#None#None
+4081#木板#None#None
+4082#木板Ⅱ#None#None
+4083#木板Ⅲ#None#None
+4084#木板Ⅳ#None#None
+4085#幽魂燧石#None#None
+4086#幽魂燧石Ⅱ#None#None
+4087#幽魂燧石Ⅲ#None#None
+4088#幽魂燧石Ⅳ#None#None
+4089#幽魂斧#None#None
+4090#幽魂斧Ⅱ#None#None
+4091#幽魂斧Ⅲ#None#None
+4092#幽魂斧Ⅳ#None#None
+4093#石头#None#None
+4094#石头Ⅱ#None#None
+4095#石头Ⅲ#None#None
+4096#石头Ⅳ#None#None
+4097#长矛#None#None
+4098#长矛Ⅱ#None#None
+4099#长矛Ⅲ#None#None
+4100#长矛Ⅳ#None#None
+4101#修枝剪刀#None#None
+4102#修枝剪刀Ⅱ#None#None
+4103#修枝剪刀Ⅲ#None#None
+4104#修枝剪刀Ⅳ#None#None
+4105#铁锤#None#None
+4106#铁锤Ⅱ#None#None
+4107#铁锤Ⅲ#None#None
+4108#铁锤Ⅳ#None#None
+4109#尖刺盾#None#None
+4110#尖刺盾Ⅱ#None#None
+4111#尖刺盾Ⅲ#None#None
+4112#尖刺盾Ⅳ#None#None
+4201#None#None#None
+4202#None#None#None
+4203#None#None#None
+4204#None#None#None
+4205#None#None#None
+4206#None#None#None
+4207#None#None#None
+4208#None#None#None
+4209#None#None#None
+4210#None#None#None
+4211#None#None#None
+4212#None#None#None
+4213#None#None#None
+4214#None#None#None
+4215#None#None#None
+4216#None#None#None
+4217#None#None#None
+4218#None#None#None
+4219#None#None#None
+4220#None#None#None
+4221#None#None#None
+4222#None#None#None
+4223#None#None#None
+4224#None#None#None
+4225#None#None#None
+4226#None#None#None
+4227#None#None#None
+4228#None#None#None
+4229#None#None#None
+4230#None#None#None
+4231#None#None#None
+4232#None#None#None
+4233#None#None#None
+4234#None#None#None
+4235#None#None#None
+4236#None#None#None
+4237#None#None#None
+4238#None#None#None
+4239#None#None#None
+4240#None#None#None
+4241#None#None#None
+4242#None#None#None
+4243#None#None#None
+4244#None#None#None
+4245#None#None#None
+4246#None#None#None
+4247#None#None#None
+4248#None#None#None
+4249#None#None#None
+4250#None#None#None
+4251#None#None#None
+4252#None#None#None
+4253#None#None#None
+4254#None#None#None
+4255#None#None#None
+4256#None#None#None
+4257#None#None#None
+4258#None#None#None
+4259#None#None#None
+4260#None#None#None
+4261#None#None#None
+4262#None#None#None
+4263#None#None#None
+4264#None#None#None
+4265#None#None#None
+4266#None#None#None
+4267#None#None#None
+4268#None#None#None
+4269#None#None#None
+4270#None#None#None
+4271#None#None#None
+4272#None#None#None
+4273#None#None#None
+4274#None#None#None
+4275#None#None#None
+4276#None#None#None
+4277#None#None#None
+4278#None#None#None
+4279#None#None#None
+4280#None#None#None
+4281#None#None#None
+4282#None#None#None
+4283#None#None#None
+4284#None#None#None
+4285#None#None#None
+4286#None#None#None
+4287#None#None#None
+4288#None#None#None
+4289#None#None#None
+4290#None#None#None
+4291#None#None#None
+4292#None#None#None
+4293#None#None#None
+4294#None#None#None
+4295#None#None#None
+4296#None#None#None
+4297#None#None#None
+4298#None#None#None
+4299#None#None#None
+4300#None#None#None
+4301#None#None#None
+4302#None#None#None
+4303#None#None#None
+4304#None#None#None
+4305#None#None#None
+4306#None#None#None
+4307#None#None#None
+4308#None#None#None
+4309#None#None#None
+4310#None#None#None
+4311#None#None#None
+4312#None#None#None
+4401#电击枪#None#None
+4402#电击枪Ⅱ#None#None
+4403#电击枪Ⅲ#None#None
+4404#电击枪Ⅳ#None#None
+4405#弹弓#None#None
+4406#弹弓Ⅱ#None#None
+4407#弹弓Ⅲ#None#None
+4408#弹弓Ⅳ#None#None
+4409#冲锋枪#None#None
+4410#冲锋枪Ⅱ#None#None
+4411#冲锋枪Ⅲ#None#None
+4412#冲锋枪Ⅳ#None#None
+4413#左轮手枪#None#None
+4414#左轮手枪Ⅱ#None#None
+4415#左轮手枪Ⅲ#None#None
+4416#左轮手枪Ⅳ#None#None
+4417#幽魂节杖#None#None
+4418#幽魂节杖Ⅱ#None#None
+4419#幽魂节杖Ⅲ#None#None
+4420#幽魂节杖Ⅳ#None#None
+4421#双管霰弹枪#None#None
+4422#双管霰弹枪Ⅱ#None#None
+4423#双管霰弹枪Ⅲ#None#None
+4424#双管霰弹枪Ⅳ#None#None
+4425#医疗抢#None#None
+4426#医疗抢Ⅱ#None#None
+4427#医疗抢Ⅲ#None#None
+4428#医疗抢Ⅳ#None#None
+4429#手枪#None#None
+4430#手枪Ⅱ#None#None
+4431#手枪Ⅲ#None#None
+4432#手枪Ⅳ#None#None
+4433#手里剑#None#None
+4434#手里剑Ⅱ#None#None
+4435#手里剑Ⅲ#None#None
+4436#手里剑Ⅳ#None#None
+4437#十字弓#None#None
+4438#十字弓Ⅱ#None#None
+4439#十字弓Ⅲ#None#None
+4440#十字弓Ⅳ#None#None
+4441#魔杖#None#None
+4442#魔杖Ⅱ#None#None
+4443#魔杖Ⅲ#None#None
+4444#魔杖Ⅳ#None#None
+4445#激光枪#None#None
+4446#激光枪Ⅱ#None#None
+4447#激光枪Ⅲ#None#None
+4448#激光枪Ⅳ#None#None
+4449#粉碎者#None#None
+4450#粉碎者Ⅱ#None#None
+4451#粉碎者Ⅲ#None#None
+4452#粉碎者Ⅳ#None#None
+4453#喷火器#None#None
+4454#喷火器Ⅱ#None#None
+4455#喷火器Ⅲ#None#None
+4456#喷火器Ⅳ#None#None
+4457#火箭筒#None#None
+4458#火箭筒Ⅱ#None#None
+4459#火箭筒Ⅲ#None#None
+4460#火箭筒Ⅳ#None#None
+4461#土豆发射器#None#None
+4462#土豆发射器Ⅱ#None#None
+4463#土豆发射器Ⅲ#None#None
+4464#土豆发射器Ⅳ#None#None
+4465#狙击手枪#None#None
+4466#狙击手枪Ⅱ#None#None
+4467#狙击手枪Ⅲ#None#None
+4468#狙击手枪Ⅳ#None#None
+4469#加特林机枪#None#None
+4470#加特林机枪Ⅱ#None#None
+4471#加特林机枪Ⅲ#None#None
+4472#加特林机枪Ⅳ#None#None
+4473#核弹发射器#None#None
+4474#核弹发射器Ⅱ#None#None
+4475#核弹发射器Ⅲ#None#None
+4476#核弹发射器Ⅳ#None#None
+4477#毁灭者#None#None
+4478#毁灭者Ⅱ#None#None
+4479#毁灭者Ⅲ#None#None
+4480#毁灭者Ⅳ#None#None
+4601#None#None#None
+4602#None#None#None
+4603#None#None#None
+4604#None#None#None
+4605#None#None#None
+4606#None#None#None
+4607#None#None#None
+4608#None#None#None
+4609#None#None#None
+4610#None#None#None
+4611#None#None#None
+4612#None#None#None
+4613#None#None#None
+4614#None#None#None
+4615#None#None#None
+4616#None#None#None
+4617#None#None#None
+4618#None#None#None
+4619#None#None#None
+4620#None#None#None
+4621#None#None#None
+4622#None#None#None
+4623#None#None#None
+4624#None#None#None
+4625#None#None#None
+4626#None#None#None
+4627#None#None#None
+4628#None#None#None
+4629#None#None#None
+4630#None#None#None
+4631#None#None#None
+4632#None#None#None
+4633#None#None#None
+4634#None#None#None
+4635#None#None#None
+4636#None#None#None
+4637#None#None#None
+4638#None#None#None
+4639#None#None#None
+4640#None#None#None
+4641#None#None#None
+4642#None#None#None
+4643#None#None#None
+4644#None#None#None
+4645#None#None#None
+4646#None#None#None
+4647#None#None#None
+4648#None#None#None
+4649#None#None#None
+4650#None#None#None
+4651#None#None#None
+4652#None#None#None
+4653#None#None#None
+4654#None#None#None
+4655#None#None#None
+4656#None#None#None
+4657#None#None#None
+4658#None#None#None
+4659#None#None#None
+4660#None#None#None
+4661#None#None#None
+4662#None#None#None
+4663#None#None#None
+4664#None#None#None
+4665#None#None#None
+4666#None#None#None
+4667#None#None#None
+4668#None#None#None
+4669#None#None#None
+4670#None#None#None
+4671#None#None#None
+4672#None#None#None
+4673#None#None#None
+4674#None#None#None
+4675#None#None#None
+4676#None#None#None
+4677#None#None#None
+4678#None#None#None
+4679#None#None#None
+4680#None#None#None
+4901#扳手#None#None
+4902#扳手Ⅱ#None#None
+4903#扳手Ⅲ#None#None
+4904#扳手Ⅳ#None#None
+4905#螺丝刀#None#None
+4906#螺丝刀Ⅱ#None#None
+4907#螺丝刀Ⅲ#None#None
+4908#螺丝刀Ⅳ#None#None
+4951#None#None#None
+4952#None#None#None
+4953#None#None#None
+4954#None#None#None
+4955#None#None#None
+4956#None#None#None
+4957#None#None#None
+4958#None#None#None
+4981#钻机Ⅳ#None#None
+4982#大镰Ⅳ#None#None
+4983#王者之剑Ⅳ#None#None
+4984#加特林激光Ⅳ#None#None
+4985#链枪Ⅳ#None#None
+4991#None#None#None
+4992#None#None#None
+4993#None#None#None
+4994#None#None#None
+4995#None#None#None
+5001#近战，徒手#None#None
+5002#近战，徒手#None#None
+5003#近战，徒手#None#None
+5004#近战，徒手#None#None
+5005#近战，徒手，精准#None#None
+5006#近战，徒手，精准#None#None
+5007#近战，徒手，精准#None#None
+5008#近战，徒手，精准#None#None
+5009#近战，徒手，辅助#None#None
+5010#近战，徒手，辅助#None#None
+5011#近战，徒手，辅助#None#None
+5012#近战，徒手，辅助#None#None
+5013#近战，原始#None#None
+5014#近战，原始#None#None
+5015#近战，原始#None#None
+5016#近战，原始#None#None
+5017#近战，原始，重型#None#None
+5018#近战，原始，重型#None#None
+5019#近战，原始，重型#None#None
+5020#近战，原始，重型#None#None
+5021#近战，原始，中世纪#None#None
+5022#近战，原始，中世纪#None#None
+5023#近战，原始，中世纪#None#None
+5024#近战，原始，中世纪#None#None
+5025#近战，原始#None#None
+5026#近战，原始#None#None
+5027#近战，原始#None#None
+5028#近战，原始#None#None
+5029#近战，原始#None#None
+5030#近战，原始#None#None
+5031#近战，原始#None#None
+5032#近战，原始#None#None
+5033#近战，精准#None#None
+5034#近战，精准#None#None
+5035#近战，精准#None#None
+5036#近战，精准#None#None
+5037#近战，精准，元素#None#None
+5038#近战，精准，元素#None#None
+5039#近战，精准，元素#None#None
+5040#近战，精准，元素#None#None
+5041#近战，医疗，精准#None#None
+5042#近战，医疗，精准#None#None
+5043#近战，医疗，精准#None#None
+5044#近战，医疗，精准#None#None
+5045#近战，精准#None#None
+5046#近战，精准#None#None
+5047#近战，精准#None#None
+5048#近战，精准#None#None
+5049#近战，利器，医疗#None#None
+5050#近战，利器，医疗#None#None
+5051#近战，利器，医疗#None#None
+5052#近战，利器，医疗#None#None
+5053#近战，利器#None#None
+5054#近战，利器#None#None
+5055#近战，利器#None#None
+5056#近战，利器#None#None
+5057#近战，利器，元素#None#None
+5058#近战，利器，元素#None#None
+5059#近战，利器，元素#None#None
+5060#近战，利器，元素#None#None
+5061#近战，利器，中世纪#None#None
+5062#近战，利器，中世纪#None#None
+5063#近战，利器，中世纪#None#None
+5064#近战，利器，中世纪#None#None
+5065#近战，原始，元素#None#None
+5066#近战，原始，元素#None#None
+5067#近战，原始，元素#None#None
+5068#近战，原始，元素#None#None
+5069#近战，元素，爆炸#None#None
+5070#近战，元素，爆炸#None#None
+5071#近战，元素，爆炸#None#None
+5072#近战，元素，爆炸#None#None
+5073#近战，徒手，元素#None#None
+5074#近战，徒手，元素#None#None
+5075#近战，徒手，元素#None#None
+5076#近战，徒手，元素#None#None
+5077#近战，徒手，爆炸#None#None
+5078#近战，徒手，爆炸#None#None
+5079#近战，徒手，爆炸#None#None
+5080#近战，徒手，爆炸#None#None
+5081#近战，爆炸，元素#None#None
+5082#近战，爆炸，元素#None#None
+5083#近战，爆炸，元素#None#None
+5084#近战，爆炸，元素#None#None
+5085#近战，虚灵#None#None
+5086#近战，虚灵#None#None
+5087#近战，虚灵#None#None
+5088#近战，虚灵#None#None
+5089#近战，虚灵#None#None
+5090#近战，虚灵#None#None
+5091#近战，虚灵#None#None
+5092#近战，虚灵#None#None
+5093#近战，原始，钝器#None#None
+5094#近战，原始，钝器#None#None
+5095#近战，原始，钝器#None#None
+5096#近战，原始，钝器#None#None
+5097#近战，中世纪#None#None
+5098#近战，中世纪#None#None
+5099#近战，中世纪#None#None
+5100#近战，中世纪#None#None
+5101#近战，辅助#None#None
+5102#近战，辅助#None#None
+5103#近战，辅助#None#None
+5104#近战，辅助#None#None
+5105#近战，钝器，重型#None#None
+5106#近战，钝器，重型#None#None
+5107#近战，钝器，重型#None#None
+5108#近战，钝器，重型#None#None
+5109#近战，中世纪，钝器#None#None
+5110#近战，中世纪，钝器#None#None
+5111#近战，中世纪，钝器#None#None
+5112#近战，中世纪，钝器#None#None
+5201#远程，辅助，元素#None#None
+5202#远程，辅助，元素#None#None
+5203#远程，辅助，元素#None#None
+5204#远程，辅助，元素#None#None
+5205#远程，原始#None#None
+5206#远程，原始#None#None
+5207#远程，原始#None#None
+5208#远程，原始#None#None
+5209#远程，枪械#None#None
+5210#远程，枪械#None#None
+5211#远程，枪械#None#None
+5212#远程，枪械#None#None
+5213#远程，枪械#None#None
+5214#远程，枪械#None#None
+5215#远程，枪械#None#None
+5216#远程，枪械#None#None
+5217#远程，虚灵#None#None
+5218#远程，虚灵#None#None
+5219#远程，虚灵#None#None
+5220#远程，虚灵#None#None
+5221#远程，枪械#None#None
+5222#远程，枪械#None#None
+5223#远程，枪械#None#None
+5224#远程，枪械#None#None
+5225#远程，医疗，枪械#None#None
+5226#远程，医疗，枪械#None#None
+5227#远程，医疗，枪械#None#None
+5228#远程，医疗，枪械#None#None
+5229#远程，枪械#None#None
+5230#远程，枪械#None#None
+5231#远程，枪械#None#None
+5232#远程，枪械#None#None
+5233#远程，精准#None#None
+5234#远程，精准#None#None
+5235#远程，精准#None#None
+5236#远程，精准#None#None
+5237#远程，精准，中世纪#None#None
+5238#远程，精准，中世纪#None#None
+5239#远程，精准，中世纪#None#None
+5240#远程，精准，中世纪#None#None
+5241#远程，元素#None#None
+5242#远程，元素#None#None
+5243#远程，元素#None#None
+5244#远程，元素#None#None
+5245#远程，枪械#None#None
+5246#远程，枪械#None#None
+5247#远程，枪械#None#None
+5248#远程，枪械#None#None
+5249#远程，枪械，爆炸#None#None
+5250#远程，枪械，爆炸#None#None
+5251#远程，枪械，爆炸#None#None
+5252#远程，枪械，爆炸#None#None
+5253#远程，元素，重型#None#None
+5254#远程，元素，重型#None#None
+5255#远程，元素，重型#None#None
+5256#远程，元素，重型#None#None
+5257#远程，重型，爆炸#None#None
+5258#远程，重型，爆炸#None#None
+5259#远程，重型，爆炸#None#None
+5260#远程，重型，爆炸#None#None
+5261#远程，辅助#None#None
+5262#远程，辅助#None#None
+5263#远程，辅助#None#None
+5264#远程，辅助#None#None
+5265#远程，枪械，精准#None#None
+5266#远程，枪械，精准#None#None
+5267#远程，枪械，精准#None#None
+5268#远程，枪械，精准#None#None
+5269#远程，重型，枪械#None#None
+5270#远程，重型，枪械#None#None
+5271#远程，重型，枪械#None#None
+5272#远程，重型，枪械#None#None
+5273#远程，重型，爆炸#None#None
+5274#远程，重型，爆炸#None#None
+5275#远程，重型，爆炸#None#None
+5276#远程，重型，爆炸#None#None
+5277#远程，枪械，重型#None#None
+5278#远程，枪械，重型#None#None
+5279#远程，枪械，重型#None#None
+5280#远程，枪械，重型#None#None
+5401#近战，工具#None#None
+5402#近战，工具#None#None
+5403#近战，工具#None#None
+5404#近战，工具#None#None
+5405#近战，工具#None#None
+5406#近战，工具#None#None
+5407#近战，工具#None#None
+5408#近战，工具#None#None
+5501#近战，传奇，精准#None#None
+5502#近战，传奇，虚灵#None#None
+5503#近战，传奇，利器#None#None
+5504#远程，传奇，重型#None#None
+5505#远程，传奇，枪械#None#None
+6001#传奇#None#None
+6002#(2) -20 最大生命值#None#None
+6003#(3) -40 最大生命值#None#None
+6004#(4) -60 最大生命值#None#None
+6005#(5) -80 最大生命值#None#None
+6006#(6) -100 最大生命值#None#None
+6007#(2) -20 最大生命值#None#None
+6008#(3) -40 最大生命值#None#None
+6009#(4) -60 最大生命值#None#None
+6010#(5) -80 最大生命值#None#None
+6011#(6) -100 最大生命值#None#None
+6012#枪械#None#None
+6013#(2) +10 范围#None#None
+6014#(3) +20 范围#None#None
+6015#(4) +30 范围#None#None
+6016#(5) +40 范围#None#None
+6017#(6) +50 范围#None#None
+6018#(2) +10 范围#None#None
+6019#(3) +20 范围#None#None
+6020#(4) +30 范围#None#None
+6021#(5) +40 范围#None#None
+6022#(6) +50 范围#None#None
+6023#辅助#None#None
+6024#(2) +5 收获#None#None
+6025#(3) +10 收获#None#None
+6026#(4) +15 收获#None#None
+6027#(5) +20 收获#None#None
+6028#(6) +25 收获#None#None
+6029#(2) +5 收获#None#None
+6030#(3) +10 收获#None#None
+6031#(4) +15 收获#None#None
+6032#(5) +20 收获#None#None
+6033#(6) +25 收获#None#None
+6034#工具#None#None
+6035#(2) +1 工程学#None#None
+6036#(3) +2 工程学#None#None
+6037#(4) +3 工程学#None#None
+6038#(5) +4 工程学#None#None
+6039#(6) +5 工程学#None#None
+6040#(2) +1 工程学#None#None
+6041#(3) +2 工程学#None#None
+6042#(4) +3 工程学#None#None
+6043#(5) +4 工程学#None#None
+6044#(6) +5 工程学#None#None
+6045#精准#None#None
+6046#(2) +3 %暴击率#None#None
+6047#(3) +6 %暴击率#None#None
+6048#(4) +9 %暴击率#None#None
+6049#(5) +12 %暴击率#None#None
+6050#(6) +15 %暴击率#None#None
+6051#(2) +3 %暴击率#None#None
+6052#(3) +6 %暴击率#None#None
+6053#(4) +9 %暴击率#None#None
+6054#(5) +12 %暴击率#None#None
+6055#(6) +15 %暴击率#None#None
+6056#利器#None#None
+6057#(2) +1 近战伤害，+1 %生命窃取#None#None
+6058#(3) +2 近战伤害，+2 %生命窃取#None#None
+6059#(4) +3 近战伤害，+3 %生命窃取#None#None
+6060#(5) +4 近战伤害，+4 %生命窃取#None#None
+6061#(6) +5 近战伤害，+5 %生命窃取#None#None
+6062#(2) +1 近战伤害，+1 %生命窃取#None#None
+6063#(3) +2 近战伤害，+2 %生命窃取#None#None
+6064#(4) +3 近战伤害，+3 %生命窃取#None#None
+6065#(5) +4 近战伤害，+4 %生命窃取#None#None
+6066#(6) +5 近战伤害，+5 %生命窃取#None#None
+6067#钝器#None#None
+6068#(2) +1 护甲，-2 %速度#None#None
+6069#(3) +1 护甲，+3 最大生命值，-4 %速度#None#None
+6070#(4) +2 护甲，+3 最大生命值，-6 %速度#None#None
+6071#(5) +2 护甲，+6 最大生命值，-8 %速度#None#None
+6072#(6) +3 护甲，+6 最大生命值，-10 %速度#None#None
+6073#(2) +1 护甲，-2 %速度#None#None
+6074#(3) +1 护甲，+3 最大生命值，-4 %速度#None#None
+6075#(4) +2 护甲，+3 最大生命值，-6 %速度#None#None
+6076#(5) +2 护甲，+6 最大生命值，-8 %速度#None#None
+6077#(6) +3 护甲，+6 最大生命值，-10 %速度#None#None
+6078#原始#None#None
+6079#(2) +3 最大生命值#None#None
+6080#(3) +6 最大生命值#None#None
+6081#(4) +9 最大生命值#None#None
+6082#(5) +12 最大生命值#None#None
+6083#(6) +15 最大生命值#None#None
+6084#(2) +3 最大生命值#None#None
+6085#(3) +6 最大生命值#None#None
+6086#(4) +9 最大生命值#None#None
+6087#(5) +12 最大生命值#None#None
+6088#(6) +15 最大生命值#None#None
+6089#徒手#None#None
+6090#(2) +3 %闪避#None#None
+6091#(3) +6 %闪避#None#None
+6092#(4) +9 %闪避#None#None
+6093#(5) +12 %闪避#None#None
+6094#(6) +15 %闪避#None#None
+6095#(2) +3 %闪避#None#None
+6096#(3) +6 %闪避#None#None
+6097#(4) +9 %闪避#None#None
+6098#(5) +12 %闪避#None#None
+6099#(6) +15 %闪避#None#None
+6100#重型#None#None
+6101#(2) +5 %伤害#None#None
+6102#(3) +10 %伤害#None#None
+6103#(4) +15 %伤害#None#None
+6104#(5) +20 %伤害#None#None
+6105#(6) +25 %伤害#None#None
+6106#(2) +5 %伤害#None#None
+6107#(3) +10 %伤害#None#None
+6108#(4) +15 %伤害#None#None
+6109#(5) +20 %伤害#None#None
+6110#(6) +25 %伤害#None#None
+6111#医疗#None#None
+6112#(2) +1 生命再生#None#None
+6113#(3) +2 生命再生#None#None
+6114#(4) +3 生命再生#None#None
+6115#(5) +4 生命再生#None#None
+6116#(6) +5 生命再生#None#None
+6117#(2) +1 生命再生#None#None
+6118#(3) +2 生命再生#None#None
+6119#(4) +3 生命再生#None#None
+6120#(5) +4 生命再生#None#None
+6121#(6) +5 生命再生#None#None
+6122#虚灵#None#None
+6123#(2) +6 %闪避，-1 护甲#None#None
+6124#(3) +12 %闪避，-2 护甲#None#None
+6125#(4) +18 %闪避，-3 护甲#None#None
+6126#(5) +24 %闪避，-4 护甲#None#None
+6127#(6) +30 %闪避，-5 护甲#None#None
+6128#(2) +6 %闪避，-1 护甲#None#None
+6129#(3) +12 %闪避，-2 护甲#None#None
+6130#(4) +18 %闪避，-3 护甲#None#None
+6131#(5) +24 %闪避，-4 护甲#None#None
+6132#(6) +30 %闪避，-5 护甲#None#None
+6133#爆炸#None#None
+6134#(2) +5 %爆炸范围#None#None
+6135#(3) +10 %爆炸范围#None#None
+6136#(4) +15 %爆炸范围#None#None
+6137#(5) +20 %爆炸范围#None#None
+6138#(6) +25 %爆炸范围#None#None
+6139#(2) +5 %爆炸范围#None#None
+6140#(3) +10 %爆炸范围#None#None
+6141#(4) +15 %爆炸范围#None#None
+6142#(5) +20 %爆炸范围#None#None
+6143#(6) +25 %爆炸范围#None#None
+6144#元素#None#None
+6145#(2) +1 元素伤害#None#None
+6146#(3) +2 元素伤害#None#None
+6147#(4) +3 元素伤害#None#None
+6148#(5) +4 元素伤害#None#None
+6149#(6) +5 元素伤害#None#None
+6150#(2) +1 元素伤害#None#None
+6151#(3) +2 元素伤害#None#None
+6152#(4) +3 元素伤害#None#None
+6153#(5) +4 元素伤害#None#None
+6154#(6) +5 元素伤害#None#None
+6155#中世纪#None#None
+6156#(2) +1 护甲#None#None
+6157#(3) +1 护甲，+3 %闪避#None#None
+6158#(4) +2 护甲，+3 %闪避#None#None
+6159#(5) +2 护甲，+6 %闪避#None#None
+6160#(6) +3 护甲，+6 %闪避#None#None
+6161#(2) +1 护甲#None#None
+6162#(3) +1 护甲，+3 %闪避#None#None
+6163#(4) +2 护甲，+3 %闪避#None#None
+6164#(5) +2 护甲，+6 %闪避#None#None
+6165#(6) +3 护甲，+6 %闪避#None#None
+7001#<color=~00FF00>+3</color> 收获#None#None
+7002#<color=~00FF00>+6</color> 收获#None#None
+7003#<color=~00FF00>+9</color> 收获#None#None
+7004#<color=~00FF00>+18</color> 收获#None#None
+7005#树枝#None#None
+7006#None#None#None
+7007#None#None#None
+7008#None#None#None
+7009#刺棍#None#None
+7010#None#None#None
+7011#None#None#None
+7012#None#None#None
+7013#格斗棍#None#None
+7014#None#None#None
+7015#None#None#None
+7016#None#None#None
+7017#雷光刀#None#None
+7018#None#None#None
+7019#None#None#None
+7020#None#None#None
+7021#剪刀#None#None
+7022#None#None#None
+7023#None#None#None
+7024#None#None#None
+7025#盗贼匕首#None#None
+7026#None#None#None
+7027#None#None#None
+7028#None#None#None
+7029#圆锯#None#None
+7030#None#None#None
+7031#None#None#None
+7032#None#None#None
+7033#砍刀#None#None
+7034#None#None#None
+7035#None#None#None
+7036#None#None#None
+7037#雷剑#None#None
+7038#None#None#None
+7039#None#None#None
+7040#None#None#None
+7041#剑#None#None
+7042#None#None#None
+7043#None#None#None
+7044#None#None#None
+7045#火把#None#None
+7046#None#None#None
+7047#None#None#None
+7048#None#None#None
+7049#等离子大锤#None#None
+7050#None#None#None
+7051#None#None#None
+7052#None#None#None
+7053#烈焰黄铜指虎#None#None
+7054#None#None#None
+7055#None#None#None
+7056#None#None#None
+7057#强拳#None#None
+7058#None#None#None
+7059#None#None#None
+7060#None#None#None
+7061#木板#None#None
+7062#None#None#None
+7063#None#None#None
+7064#None#None#None
+7065#幽魂燧石#None#None
+7066#None#None#None
+7067#None#None#None
+7068#None#None#None
+7069#幽魂斧#None#None
+7070#None#None#None
+7071#None#None#None
+7072#None#None#None
+7073#长矛#None#None
+7074#None#None#None
+7075#None#None#None
+7076#None#None#None
+7077#修枝剪刀#None#None
+7078#None#None#None
+7079#None#None#None
+7080#None#None#None
+7081#电击枪#None#None
+7082#None#None#None
+7083#None#None#None
+7084#None#None#None
+7085#左轮手枪#None#None
+7086#None#None#None
+7087#None#None#None
+7088#None#None#None
+7089#幽魂节杖#None#None
+7090#None#None#None
+7091#None#None#None
+7092#None#None#None
+7093#医疗枪#None#None
+7094#None#None#None
+7095#None#None#None
+7096#None#None#None
+7097#手里剑#None#None
+7098#None#None#None
+7099#None#None#None
+7100#None#None#None
+7101#十字弓#None#None
+7102#None#None#None
+7103#None#None#None
+7104#None#None#None
+7105#魔杖#None#None
+7106#None#None#None
+7107#None#None#None
+7108#None#None#None
+7109#粉碎者#None#None
+7110#None#None#None
+7111#None#None#None
+7112#None#None#None
+7113#喷火器#None#None
+7114#None#None#None
+7115#None#None#None
+7116#None#None#None
+7117#火箭筒#None#None
+7118#None#None#None
+7119#None#None#None
+7120#None#None#None
+7121#狙击手枪#None#None
+7122#None#None#None
+7123#None#None#None
+7124#None#None#None
+7125#核弹发射器#None#None
+7126#None#None#None
+7127#None#None#None
+7128#None#None#None
+7129#扳手#None#None
+7130#None#None#None
+7131#None#None#None
+7132#None#None#None
+7133#螺丝刀#None#None
+7134#None#None#None
+7135#None#None#None
+7136#None#None#None
+7137#钻机#None#None
+7138#大镰#None#None
+7139#王者之剑#None#None
+7140#链枪#None#None
+7141#已获得材料：#None#None
+7142#已获得属性：#None#None
+7143#石头2#None#None
+7144#石头3#None#None
+7145#石头4#None#None
+7146#弹弓的反弹介绍#None#None
+7147#弹弓的反弹介绍#None#None
+7148#弹弓的反弹介绍#None#None
+7149#弹弓的反弹介绍#None#None
+7150#%伤害#None#None
+8000#角色#None#None
+8100#全能者#None#None
+8200#<color=~00FF00>+5</color> 最大生命值\n<color=~00FF00>+5</color> %速度\n<color=~00FF00>+8</color> 收获#None#None

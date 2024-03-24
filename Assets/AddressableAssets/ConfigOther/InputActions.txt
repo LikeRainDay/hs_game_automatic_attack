@@ -1,0 +1,1130 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "ca25f9b4-4512-421f-b22f-ae8963af39b7",
+            "actions": [
+                {
+                    "name": "Up_P",
+                    "type": "Value",
+                    "id": "2556b598-d245-41cf-a3f7-519c48839aae",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Up",
+                    "type": "Value",
+                    "id": "ddc8a487-5e92-4f8d-b0ef-567b9fc62e2b",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Down_P",
+                    "type": "Value",
+                    "id": "ffc45d5c-f0e2-4d5a-be64-11ebda3f1b62",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Down",
+                    "type": "Value",
+                    "id": "1e65e7d5-18b8-4989-91c0-e5ceca9aaee0",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Left_P",
+                    "type": "Value",
+                    "id": "efdd5562-7404-4600-b2f8-dcbed58c1507",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Left",
+                    "type": "Value",
+                    "id": "1e0ecd34-f068-44b4-bfc8-d41ec09a3281",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Right_P",
+                    "type": "Value",
+                    "id": "99597789-5f1c-4c8a-85dd-8d4e7c3da718",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Right",
+                    "type": "Value",
+                    "id": "363fbceb-1aae-4cea-8181-0728afc2787e",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "X_P",
+                    "type": "Value",
+                    "id": "da444456-695b-4b26-a2b9-b5e76dafe63e",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "X",
+                    "type": "Value",
+                    "id": "782b4cef-f46d-45ce-8337-c7a2322c13bd",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Y_P",
+                    "type": "Value",
+                    "id": "484989a7-1a66-40d2-996b-b36ceb50f5c3",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Y",
+                    "type": "Value",
+                    "id": "45556eec-7b1a-4819-a2c4-7ad67439ab32",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "A_P",
+                    "type": "Value",
+                    "id": "d5fdd86a-248f-4411-88c6-28730c324f39",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "A",
+                    "type": "Value",
+                    "id": "d6a76c3f-7fe7-4c04-b089-4585ce2639a2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "B_P",
+                    "type": "Value",
+                    "id": "19299c13-37c0-42c2-a86d-f754b78bbaa2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "B",
+                    "type": "Value",
+                    "id": "e9a5e469-6de4-4341-9960-059ab046b1a2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LT_P",
+                    "type": "Value",
+                    "id": "56539f25-d4b0-4e60-97bf-2d9771d7ee5b",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LT",
+                    "type": "Value",
+                    "id": "5492b724-1eb9-43eb-840a-0aa689d10feb",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RT_P",
+                    "type": "Value",
+                    "id": "85eaba91-1567-40e6-b3b7-5c834fbd0d9a",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RT",
+                    "type": "Value",
+                    "id": "2877a3bc-91ff-443b-8b69-2ceb0e08c067",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LB_P",
+                    "type": "Value",
+                    "id": "d0abee7b-d219-47a8-ad2d-d312a12d58d4",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LB",
+                    "type": "Value",
+                    "id": "f2133bb8-4701-4f47-8f9a-d6e4759892d9",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RB_P",
+                    "type": "Value",
+                    "id": "acc7d55a-1a02-4859-a9d5-a5c81e79ce14",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RB",
+                    "type": "Value",
+                    "id": "54fb4c0d-344b-4768-a471-bb9f1f4e57df",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Back_P",
+                    "type": "Value",
+                    "id": "de8076af-e652-45dc-bab7-046914828053",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Back",
+                    "type": "Value",
+                    "id": "8c2c0c61-c544-4c1c-b40c-60b9692dc8c2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Start_P",
+                    "type": "Value",
+                    "id": "3cd79f8b-33ef-4f62-abef-f7bcb550f66e",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Start",
+                    "type": "Value",
+                    "id": "3d3aa868-5826-4de7-be4b-bdeb81bcdf9a",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Mouse0_P",
+                    "type": "Value",
+                    "id": "bfa57277-fbf1-401f-ae24-792ddae3a6bc",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Mouse0",
+                    "type": "Value",
+                    "id": "ab8eb1d5-e255-4d6e-8f06-f4b72e5f6290",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Mouse1_P",
+                    "type": "Value",
+                    "id": "6a57408b-9f0b-4e36-92c1-db80222dcf28",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Mouse1",
+                    "type": "Value",
+                    "id": "d8cc6fd4-4216-47d6-a6fc-7002cd4d1160",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Mouse2_P",
+                    "type": "Value",
+                    "id": "9041ab54-0ec9-45e2-8fdd-ffb193397947",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Mouse2",
+                    "type": "Value",
+                    "id": "f3b28690-498b-4f5c-ae14-6a81fbc6c781",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Shift_P",
+                    "type": "Value",
+                    "id": "d55c7c1b-d9f5-489b-adb4-ef3880bfa363",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Shift",
+                    "type": "Value",
+                    "id": "5827e472-862a-4c57-975d-ebf8352fcf5b",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fd52e1d7-dc0e-479b-beb9-59cc45052536",
+                    "path": "Up_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b747b68e-0d9c-4c49-825b-8609bc1c35d7",
+                    "path": "Up_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bed37c15-802c-4312-a9d3-096ef13be710",
+                    "path": "Down_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dbe21925-fcc1-4a07-b313-c90f8f0e0ed5",
+                    "path": "Down_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1dc11454-3b77-4b6b-9d6f-d4bcbfd2759e",
+                    "path": "Left_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4eae51aa-9950-4bd4-996f-2a0ccffb6caf",
+                    "path": "Left_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "986bed14-ed2c-48b3-b0cb-7523a0a5f57b",
+                    "path": "Right_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c40c609a-102d-4ee2-ab1f-6b4e5ac31a6a",
+                    "path": "Right_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "61a596ba-3771-48b3-af51-5dd57a4faa40",
+                    "path": "Up1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "eb060595-5fbd-4f66-b3e2-3d742780dc33",
+                    "path": "Up2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "68aed638-7718-4e1b-99b7-7079b8619e0c",
+                    "path": "Down1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dc3b8e8a-79ff-492b-a2bd-f22494761fd4",
+                    "path": "Down2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8c5d0812-f1f0-4722-b2a9-e879d98f4f17",
+                    "path": "Left1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ac25e862-f969-40de-a4d3-d56c35593a00",
+                    "path": "Left2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "742a251a-e582-450d-9ce1-2032e1e8f558",
+                    "path": "Right1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3f93d0a1-74fb-4d07-a884-f9e61f99fa8c",
+                    "path": "Right2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "688e68bb-3a87-42d3-8399-1800b901e116",
+                    "path": "X_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "X_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2b1bdd11-7915-45c4-abcd-3b0b12635386",
+                    "path": "X_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "X_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2e8b6eb5-11b3-447b-9938-402c5b6bc9e2",
+                    "path": "Y_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Y_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "38c2cab7-76c6-4315-a051-08804928eb23",
+                    "path": "Y_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Y_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d0fc80f1-a8cb-41b9-aee7-b9291e8d106a",
+                    "path": "A_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3b6d6550-4a46-42a4-810a-ab92a4e21705",
+                    "path": "A_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fee5c132-4846-4a1b-964a-5358e60574dd",
+                    "path": "B_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cd006fc2-30ce-4753-89cc-8e4da314b9c1",
+                    "path": "B_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "72f37f62-f372-4844-977a-24dae14e4350",
+                    "path": "X1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "X",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "077e25d3-9e7d-4ac1-a5ce-a96bd685c623",
+                    "path": "X2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "X",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "65d73f17-351e-478f-8b5a-330d6903ed13",
+                    "path": "Y1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Y",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1b08b583-60ea-445d-ad60-692f9fb914bf",
+                    "path": "Y2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Y",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ad4b1355-5018-4b1e-bba4-99e040cdffb8",
+                    "path": "A1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "87ce9cdf-734c-4a9a-8eae-a9207134bbbc",
+                    "path": "A2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fd6fc3c5-5028-45a4-964c-f57d873abe44",
+                    "path": "B1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2b65b687-e11b-4e8d-bfe9-8ae344305ee9",
+                    "path": "B2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "edaa7c7b-c835-4169-8a95-20d972a233b7",
+                    "path": "LT_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LT_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "17ebef98-e0d4-4099-8cb9-73bbd04d5090",
+                    "path": "LT_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LT_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a11d3dbe-0d84-4e3c-be7e-f118c7a47861",
+                    "path": "RT_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RT_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f323947d-2251-47fa-812d-d54ef6ed12cd",
+                    "path": "RT_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RT_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a197aa15-2778-4f03-bc1e-d1cc619533e9",
+                    "path": "LB_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LB_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "068389a2-78f6-4336-82ac-944484efc072",
+                    "path": "LB_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LB_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fb50c707-75a8-4102-9033-1ad4874b568f",
+                    "path": "RB_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RB_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "207a95b0-8923-450e-a024-03a6fe4259cd",
+                    "path": "RB_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RB_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aacbba1b-55be-46ea-b2a2-c3fc2c77653b",
+                    "path": "LT1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LT",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1c342460-9ae9-4a1c-b448-d5c20d8ce104",
+                    "path": "LT2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LT",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0008fb34-55a5-40d6-a302-673d491ce1e0",
+                    "path": "RT1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RT",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c3486959-9810-4cbd-a866-95360d730c12",
+                    "path": "RT2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RT",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a9c79eec-488c-404c-8361-2ca8a94dc37e",
+                    "path": "LB1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "711b3a01-3f14-413a-bc36-6d8c752576e6",
+                    "path": "LB2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "36c4b32b-3fef-4dac-b922-66f829691b89",
+                    "path": "RB1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "433f44a1-c394-4b2a-9619-6c782409a9ee",
+                    "path": "RB2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b190a3f1-943d-4c24-aea2-791f7ba68d2e",
+                    "path": "Back_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9909b07b-9efd-46cc-937d-95a96fae91d1",
+                    "path": "Back_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "157646a0-831c-4b92-a327-656f3edcc4ea",
+                    "path": "Start_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f1cf3277-7f3f-4f1b-8c28-feef99f4a1d5",
+                    "path": "Start_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8b52abca-c757-44c7-8013-ebc5d95345ed",
+                    "path": "Mouse0_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse0_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "23505034-bfd9-40f8-8a60-11bd8f3c8a24",
+                    "path": "Mouse0_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse0_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f59bc9cb-14c0-479f-bfae-cae292158d22",
+                    "path": "Back1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6b55bc6d-d65e-49f8-81b9-76ebe688e1cf",
+                    "path": "Back2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bc2de735-fa20-4778-81a4-c2d5ae293e3f",
+                    "path": "Start1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0108a048-ab4e-4616-a930-1be6b2b6fd16",
+                    "path": "Start2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "931b6963-1b4c-4e05-8f3a-ccdb034b4877",
+                    "path": "Mouse01",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e89265f7-2f38-44e4-9c1b-ecd17ca8c43a",
+                    "path": "Mouse02",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "720b8165-04d2-44b0-9b01-6d8b8b2b26f5",
+                    "path": "Mouse1_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse1_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ca9770a0-8170-4371-a10b-9dc32c9aaf8e",
+                    "path": "Mouse1_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse1_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "03b27b8e-14f6-4fe3-b676-8e471dceb4cc",
+                    "path": "Mouse2_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse2_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9a3d2979-3e98-4ec8-951b-0c651b052d4c",
+                    "path": "Mouse2_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse2_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "59eae707-b289-4499-8bc7-733e8b09fb24",
+                    "path": "Shift_P1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shift_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7396f47c-0e11-4d76-b9df-04a4c87700a7",
+                    "path": "Shift_P2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shift_P",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a52ef0f5-1999-4c63-b30b-ec2d4e631145",
+                    "path": "Shift1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shift",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9403b6a7-94dc-48b0-af0a-48fc31d28556",
+                    "path": "Shift2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shift",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1754a057-c3aa-4ce1-bc88-ffec21fc2189",
+                    "path": "Mouse11",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "debf413f-8735-48ac-ae56-f5d2d9ba3f98",
+                    "path": "Mouse12",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ab3f0117-58c0-4b72-9813-932adb5fc703",
+                    "path": "Mouse21",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8373f087-c93a-47f2-9899-ef22e5cacacd",
+                    "path": "Mouse22",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

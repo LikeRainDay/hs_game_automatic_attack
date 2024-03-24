@@ -1,0 +1,8 @@
+id#Annotate#EnumName#Path
+id#注释#资源枚举名#资源路径
+int#string#string#string
+1#测试发射器1#A1#Assets/AddressableAssets/Mix/Emitter/TestEmitter1.prefab
+2#测试发射器2#A2#Assets/AddressableAssets/Mix/Emitter/TestEmitter2.prefab
+3#测试发射器3#A3#Assets/AddressableAssets/Mix/Emitter/TestEmitter3.prefab
+4#测试发射器4#A4#Assets/AddressableAssets/Mix/Emitter/TestEmitter4.prefab
+5#测试发射器5#A5#Assets/AddressableAssets/Mix/Emitter/TestEmitter5.prefab

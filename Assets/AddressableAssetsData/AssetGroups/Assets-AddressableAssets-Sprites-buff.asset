@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets-AddressableAssets-Sprites-buff
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets-AddressableAssets-Sprites-buff
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e085e07d3c012cc4b9e929a57c46728c
+  m_SerializeEntries:
+  - m_GUID: 3daa4b29921d8f348a69f54c7b4256dd
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u4E09\u5934\u808C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: bc9377872f7545d428fbb9392c20a673
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u524D\u81C2.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 09d99bcb24a8bb44580a6b3177417999
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u53CD\u5E94\u80FD\u529B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 8bfaeedb598c93e4794813f0d7e8d886
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u5934\u9AA8.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: bab613cd1dff1ef4fa160ee8f2f7fb7a
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u5FC3\u810F.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 809766d641e4ef042a6423a65f3250ce
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u624B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 10752fbcee254c74581f0a71fec1a296
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u624B\u6307.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: e8f5f506c789c094793281e265effd8a
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u7259\u9F7F.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 5d53deba9cdd1dd4c8d6e4d266d6bc24
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u773C\u775B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: b1b8367d1dd7ec54fbac197705d6df33
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u80A9\u8180.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 39e9dc9bb2ed7934da6da5089669dd83
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u80BA.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 63bff3f817923e34da1c4a1dc1809cf6
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u80CC.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: c8bd693b3df52604bb6e0053f9300c13
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u80F8.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: e12e7e9a0d4c6264d906ab390cb51b5b
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u8111.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: a7d222114b68ffb4a85a8be9d1753342
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u817F.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  - m_GUID: 3cfc582aaa52f95428347dbed43a1dd9
+    m_Address: "Assets/AddressableAssets/Sprites/buff/\u9F3B\u5B50.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-buff
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24dfeecdbf54e15499bd92801aeb23cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2b806b08428485942bc88afc4d496295, type: 2}
+    - {fileID: 11400000, guid: 525a4aba35c58fb4cad3b01f6afdcbc3, type: 2}

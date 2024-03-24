@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6e605302794ea8f49b928fd7121ae68a
+  m_SerializeEntries:
+  - m_GUID: 2c52ec2c25edf81428c8331d568a78a1
+    m_Address: Assets/Item1.cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Assets
+  - m_GUID: 62f5968ec764bfc40b55b9cbd1c69e1e
+    m_Address: Assets/Item2.cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Assets
+  - m_GUID: adb99a28ff9aa954e91b662ca594622e
+    m_Address: Assets/Item3.cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Assets
+  - m_GUID: d0a13850ce318f44fbcdcc2ddc303078
+    m_Address: Assets/Reward.cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Assets
+  - m_GUID: 4b963b586ea888b4180aa0897db22863
+    m_Address: Assets/SoraButton.cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Assets
+  - m_GUID: 350d856e94e741049a56c8e4ac4f16f9
+    m_Address: Assets/StatsPage.cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Assets
+  - m_GUID: 6eb5257bc9d9a1341b927d3c569bf6f2
+    m_Address: Assets/Tip1.cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Assets
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24dfeecdbf54e15499bd92801aeb23cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 29cb6fde630233043b935ffada832400, type: 2}
+    - {fileID: 11400000, guid: da60c830901bf434d9b4e1afbdbc4922, type: 2}

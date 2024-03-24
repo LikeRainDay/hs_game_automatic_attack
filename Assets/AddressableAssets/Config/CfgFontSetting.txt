@@ -1,0 +1,15 @@
+id#Desc#TextSetting-FontSizeScale#TextSetting-LineSpacingScale#TextSetting-FontSizeScale#TextSetting-LineSpacingScale#TextSetting-FontSizeScale#TextSetting-LineSpacingScale
+id#描述#中文Text字号缩放比#中文Text行间距缩放比#英文Text字号缩放比#英文Text行间距缩放比#日文Text字号缩放比#日文Text行间距缩放比
+int#string#float#float#float#float#float#float
+1#配置1#1#1#1#1#1#1
+2#战斗配置文本#1#1#0.86#1.17391304347826#0.833#1.2
+3#地图仪的描述#1#1#0.8666#0.9#1#1
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None
+None#None#None#None#None#None#None#None

@@ -1,0 +1,580 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets-AddressableAssets-Sprites-weapons
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets-AddressableAssets-Sprites-weapons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6e46b1f27715c9943be18a59c5db8515
+  m_SerializeEntries:
+  - m_GUID: 95e73b2d8b1808f43a7623d98f7d979f
+    m_Address: Assets/AddressableAssets/Sprites/weapons/cacti_club.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: f4ca7441e096c944897ad95c22380751
+    m_Address: Assets/AddressableAssets/Sprites/weapons/cacti_club_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 9d425f40fb9b5df49a94cdbd5723b04c
+    m_Address: Assets/AddressableAssets/Sprites/weapons/chain_gun.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 5dbf97e04bdc9c849bf4780f85daae4b
+    m_Address: Assets/AddressableAssets/Sprites/weapons/chain_gun_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 9b4fbffd8a9b22d4e9a88b62de733317
+    m_Address: Assets/AddressableAssets/Sprites/weapons/chopper.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 02886dbc09fa9664caac3ce31840fd2e
+    m_Address: Assets/AddressableAssets/Sprites/weapons/chopper_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 730ae4d5a4c69ac41bcb0e5290438355
+    m_Address: Assets/AddressableAssets/Sprites/weapons/circular_saw.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: a8f57644d15358b45acd7bb3132f454e
+    m_Address: Assets/AddressableAssets/Sprites/weapons/circular_saw_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d8453189763d1fc46828f1f25cb63609
+    m_Address: Assets/AddressableAssets/Sprites/weapons/claw.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 502b806d31fa06e4484149f55a593dc3
+    m_Address: Assets/AddressableAssets/Sprites/weapons/claw_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 8fa4c33368063624da6d26b1ef45d805
+    m_Address: Assets/AddressableAssets/Sprites/weapons/crossbow.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 329162696d8350e4c9b214fdb9f06a57
+    m_Address: Assets/AddressableAssets/Sprites/weapons/crossbow_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 9dee6aee926f94442b1be85e1d66d466
+    m_Address: Assets/AddressableAssets/Sprites/weapons/dagger.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 89bf1dbd7ed98874f8a918b6308c24ac
+    m_Address: Assets/AddressableAssets/Sprites/weapons/dagger_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: a05b18cdba2370448a778456615fe29e
+    m_Address: Assets/AddressableAssets/Sprites/weapons/double_barrel_shotgun.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 8392dd0725bf24844924dd7eb755d81d
+    m_Address: Assets/AddressableAssets/Sprites/weapons/double_barrel_shotgun_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: ed52142591073b64882ae7c05dfc7616
+    m_Address: Assets/AddressableAssets/Sprites/weapons/drill.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 12e9cc5bf7bbeff49a24a88c1b8eff5d
+    m_Address: Assets/AddressableAssets/Sprites/weapons/drill_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 5428b5989913cfc4eb7aaffbc4121b50
+    m_Address: Assets/AddressableAssets/Sprites/weapons/excalibur.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 2b93fa9688b7e00439e0b68d73770423
+    m_Address: Assets/AddressableAssets/Sprites/weapons/excalibur_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 2d57e8f160c4954498fcf2010ab6c5af
+    m_Address: Assets/AddressableAssets/Sprites/weapons/fighting_stick.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 061d0b0fd25a57a48a77223014a5a44c
+    m_Address: Assets/AddressableAssets/Sprites/weapons/fighting_stick_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: ffcb1728221b1534191d0ecbab9656d0
+    m_Address: Assets/AddressableAssets/Sprites/weapons/fist.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: b6bef553bc471f24694a35165eabca65
+    m_Address: Assets/AddressableAssets/Sprites/weapons/fist_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 81049233a692c074ebccbcc83d9cba67
+    m_Address: Assets/AddressableAssets/Sprites/weapons/flamethrower.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 037a2c19eba2da044b8ac63c80573a29
+    m_Address: Assets/AddressableAssets/Sprites/weapons/flamethrower_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 5bfbe72329a07eb47a4fd798ed7fa741
+    m_Address: Assets/AddressableAssets/Sprites/weapons/flaming_knuckles_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 557c337c44d13c14692a56b1e43322a5
+    m_Address: Assets/AddressableAssets/Sprites/weapons/ghost_axe.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 4ce6e87a094183247a389ae68eafd5dc
+    m_Address: Assets/AddressableAssets/Sprites/weapons/ghost_axe_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 2faa05b457abda44292cbabf6dbff456
+    m_Address: Assets/AddressableAssets/Sprites/weapons/ghost_flint.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 4e84845c15cd0f141840a369ac16df68
+    m_Address: Assets/AddressableAssets/Sprites/weapons/ghost_flint_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 20e00235dea83f843a6fed3b21d089cc
+    m_Address: Assets/AddressableAssets/Sprites/weapons/ghost_scepter.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: f4e3d30ad6c0bca4d9aa96da180ef7e6
+    m_Address: Assets/AddressableAssets/Sprites/weapons/ghost_scepter_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 23bc72d49ef49cd48bc3942d1fb2728f
+    m_Address: Assets/AddressableAssets/Sprites/weapons/hammer.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 4d2b48ed82e770942afe5393fe210b24
+    m_Address: Assets/AddressableAssets/Sprites/weapons/hammer_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: bf6f6ef21a7c35f4aa2df1d2f1bc67c3
+    m_Address: Assets/AddressableAssets/Sprites/weapons/hand.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 2b02dea0496c8ed409b0f84baee3e40c
+    m_Address: Assets/AddressableAssets/Sprites/weapons/hand_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 9159a119c3055aa4fb93a70bfade3650
+    m_Address: Assets/AddressableAssets/Sprites/weapons/hatchet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: c6f19155670a4f74d95622a5ffa899cd
+    m_Address: Assets/AddressableAssets/Sprites/weapons/hatchet_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 08e8cb015fdca6f499e629f32e9443a8
+    m_Address: Assets/AddressableAssets/Sprites/weapons/jousting_lance.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 66ef526c87a7a4842ad3b62de2505b99
+    m_Address: Assets/AddressableAssets/Sprites/weapons/jousting_lance_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 8612b02d170d19748a2c37e518a35821
+    m_Address: Assets/AddressableAssets/Sprites/weapons/knife.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d6890b0f16b0e3a4998509fc587a1ddf
+    m_Address: Assets/AddressableAssets/Sprites/weapons/knife_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: f30753fd01e11c3429d42d92b30fa513
+    m_Address: Assets/AddressableAssets/Sprites/weapons/knuckles.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: db5655b00d82a704db918b3b33a755c5
+    m_Address: Assets/AddressableAssets/Sprites/weapons/knuckles_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: fc283c38f5f3b31418a7a3699852d12f
+    m_Address: Assets/AddressableAssets/Sprites/weapons/laser_gatling.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: c0846766770d76f4c8e6fcb9b6aa132a
+    m_Address: Assets/AddressableAssets/Sprites/weapons/laser_gatling_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: dd2f9cae6fcaeab42b9c32796e5bd757
+    m_Address: Assets/AddressableAssets/Sprites/weapons/laser_pistol.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 9727a557c405cf64fb98b03683c37ab4
+    m_Address: Assets/AddressableAssets/Sprites/weapons/laser_pistol_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: c111d4b8cd38f444694e8bf4f0805abe
+    m_Address: Assets/AddressableAssets/Sprites/weapons/lightning_shiv.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 349f64304a9d1ae4cbdf8da4d0bc5d77
+    m_Address: Assets/AddressableAssets/Sprites/weapons/lightning_shiv_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 0b9c84c30c8610344944049acefdbb07
+    m_Address: Assets/AddressableAssets/Sprites/weapons/medical_gun.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 8b7afbdde7a5a734a82f0249dc4c4c2a
+    m_Address: Assets/AddressableAssets/Sprites/weapons/medical_gun_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 349d089684cefb04ea57bfb649f64865
+    m_Address: Assets/AddressableAssets/Sprites/weapons/minigun.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 15f20502195180f4494054f7bc544411
+    m_Address: Assets/AddressableAssets/Sprites/weapons/minigun_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 944f2f9f28afde4459d22c0fe8be75ef
+    m_Address: Assets/AddressableAssets/Sprites/weapons/nuclear_launcher.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: ca95e4bd584aea44d86387e8bba4a502
+    m_Address: Assets/AddressableAssets/Sprites/weapons/nuclear_launcher_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 1c25116b35aa5c447b14a026857814c6
+    m_Address: Assets/AddressableAssets/Sprites/weapons/obliterator.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 6a46a6ab703b4944c8f59b663c90b136
+    m_Address: Assets/AddressableAssets/Sprites/weapons/obliterator_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 5154ba2066a7c904bb29eb38249d509b
+    m_Address: Assets/AddressableAssets/Sprites/weapons/pistol.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 2a32e684d3d96c7459f636270b1fc63c
+    m_Address: Assets/AddressableAssets/Sprites/weapons/pistol_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d71891bd08fbc3149b2aeacd383936d2
+    m_Address: Assets/AddressableAssets/Sprites/weapons/plank.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 84593c9a8e15e1a41b30b9a5f16a2686
+    m_Address: Assets/AddressableAssets/Sprites/weapons/plank_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 094d422c1c0b9804b91d03912bc1d906
+    m_Address: Assets/AddressableAssets/Sprites/weapons/plasma_sledgehammer.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 1a10fd5615d9f594ca780460452a4dbe
+    m_Address: Assets/AddressableAssets/Sprites/weapons/plasma_sledgehammer_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 5ab6dc61a0399a340a32560a73bf5d4e
+    m_Address: Assets/AddressableAssets/Sprites/weapons/potato_thrower.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d88b66f99be65f04d8d464a0d4d33f12
+    m_Address: Assets/AddressableAssets/Sprites/weapons/potato_thrower_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 8ee958fdbe56de64aaab3824bf3730ce
+    m_Address: Assets/AddressableAssets/Sprites/weapons/power_fist.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: b814d2be23e40fd4a89d5ff71b330050
+    m_Address: Assets/AddressableAssets/Sprites/weapons/power_fist_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 1e4f934d710756f46b75a0e2420de040
+    m_Address: Assets/AddressableAssets/Sprites/weapons/pruner.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: fdf3cd4767af0a643abf5699d3f246a6
+    m_Address: Assets/AddressableAssets/Sprites/weapons/pruner_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: c0e88e61401d0824fb292cde6d917f62
+    m_Address: Assets/AddressableAssets/Sprites/weapons/revolver.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d07d283f9c45ebb4180a0a43a663caab
+    m_Address: Assets/AddressableAssets/Sprites/weapons/revolver_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: bc941d3d191b6df4c9d3900abd3f7d72
+    m_Address: Assets/AddressableAssets/Sprites/weapons/rock.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 23a805938d3823c4ea02968a3e249ba8
+    m_Address: Assets/AddressableAssets/Sprites/weapons/rocket_launcher.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 4767a262ed3954c459ca6b6d7691868b
+    m_Address: Assets/AddressableAssets/Sprites/weapons/rocket_launcher_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: ef7bed379a982354c85d758f572c151a
+    m_Address: Assets/AddressableAssets/Sprites/weapons/rock_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 5e0048ef7155980498aeecc7ebba3812
+    m_Address: Assets/AddressableAssets/Sprites/weapons/scissors.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d00acf1ba4084be419adce229ebe53a8
+    m_Address: Assets/AddressableAssets/Sprites/weapons/scissors_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: efc992d94af412642b6038cbf98eb880
+    m_Address: Assets/AddressableAssets/Sprites/weapons/screwdriver.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 675c35bc4f220bb48b20e39046a29bcd
+    m_Address: Assets/AddressableAssets/Sprites/weapons/screwdriver_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 05d006ddfc7c2594bbcd197a3351146c
+    m_Address: Assets/AddressableAssets/Sprites/weapons/scythe.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 3f9916a8cf82ce84ab5faa9c3e2e7ad0
+    m_Address: Assets/AddressableAssets/Sprites/weapons/scythe_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 2bdbbff7cba3687419bfbec269131370
+    m_Address: Assets/AddressableAssets/Sprites/weapons/shredder.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 9c5086dc600c9fd4fa5fb28c1e15a3dd
+    m_Address: Assets/AddressableAssets/Sprites/weapons/shredder_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: cad92b6f84569dc4288c54cd43e40b75
+    m_Address: Assets/AddressableAssets/Sprites/weapons/shuriken.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 507aa49e2895b66458b42b0e2c15b51c
+    m_Address: Assets/AddressableAssets/Sprites/weapons/shuriken_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d99ac365f0d92ff4eb9fad0036f6c69f
+    m_Address: Assets/AddressableAssets/Sprites/weapons/slingshot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 1e580826c76b03e4f890571cb82450dd
+    m_Address: Assets/AddressableAssets/Sprites/weapons/slingshot_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: f1ecb986c0deb2541827250511525a77
+    m_Address: Assets/AddressableAssets/Sprites/weapons/smg.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 53c2196f30684ff418103d0b51f99859
+    m_Address: Assets/AddressableAssets/Sprites/weapons/smg_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 53c18b5deccc72f4ab4f6f1a09a95fbc
+    m_Address: Assets/AddressableAssets/Sprites/weapons/sniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: e9a4f7fabb146674385f5447cf8de549
+    m_Address: Assets/AddressableAssets/Sprites/weapons/sniper_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: b4696d57f77bb464e893bb531faa75c0
+    m_Address: Assets/AddressableAssets/Sprites/weapons/spear.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 7f66ee58963f5044292f7963dd0d6dd7
+    m_Address: Assets/AddressableAssets/Sprites/weapons/spear_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 02aa64236fb8ea342863465bed188151
+    m_Address: Assets/AddressableAssets/Sprites/weapons/spiky_shield.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: d14aa15675a01d14dbc14f324ca5e2e9
+    m_Address: Assets/AddressableAssets/Sprites/weapons/spiky_shield_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 52254f4a86a891143ba1ada68ab0f87e
+    m_Address: Assets/AddressableAssets/Sprites/weapons/stick.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 5d729b49855049341b52d1c9db6be689
+    m_Address: Assets/AddressableAssets/Sprites/weapons/stick_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: f8ce91b1335d18440b7f16321f83b76a
+    m_Address: Assets/AddressableAssets/Sprites/weapons/sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: f93f90de42e5c084bb3f61a6458ac87e
+    m_Address: Assets/AddressableAssets/Sprites/weapons/sword_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: bd7dda92e36c1e542bf0ce6389829116
+    m_Address: Assets/AddressableAssets/Sprites/weapons/taser.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 2c35780c476a7c94f918e806704a0bac
+    m_Address: Assets/AddressableAssets/Sprites/weapons/taser_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 7b7f22f97b0bbc641b234068efaa361d
+    m_Address: Assets/AddressableAssets/Sprites/weapons/thunder_sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: b894f360263883541a11df59979a26b9
+    m_Address: Assets/AddressableAssets/Sprites/weapons/thunder_sword_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 874839cc41d510f4f87c694d0b8e9b37
+    m_Address: Assets/AddressableAssets/Sprites/weapons/torch.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 8c27fdf58c3037748923d7b4e7392ddd
+    m_Address: Assets/AddressableAssets/Sprites/weapons/torch_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 8e30dc7c9859e344995da7c5c32b8a32
+    m_Address: Assets/AddressableAssets/Sprites/weapons/wand.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 26c13e7050af7b4418e5ef8e10cb4fae
+    m_Address: Assets/AddressableAssets/Sprites/weapons/wand_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: be4277131872fdb4abaf67430df1627d
+    m_Address: Assets/AddressableAssets/Sprites/weapons/wrench.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  - m_GUID: 08073f2f21163af4a84fa538f1711243
+    m_Address: Assets/AddressableAssets/Sprites/weapons/wrench_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-weapons
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24dfeecdbf54e15499bd92801aeb23cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3e5e8b6814454f744a6636df914dc039, type: 2}
+    - {fileID: 11400000, guid: 2eea83ab4ec18b843bb27fbbdf6244c4, type: 2}

@@ -1,0 +1,5 @@
+id#Annotate#EnumName#Path
+id#注释#资源枚举名#资源路径
+int#string#string#string
+1#幕间1#A1#Assets/AddressableAssets/Scene/4K/Demo_6/MuJianScene.unity
+2#练习场#A2#Assets/AddressableAssets/Scene/练习场.unity

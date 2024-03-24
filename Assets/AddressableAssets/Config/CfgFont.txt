@@ -1,0 +1,11 @@
+id#Annotate#Desc#Path
+id#注释#描述#资源路径
+int#string#string#string
+1#字体1#中文#Assets/AddressableAssets/Font/通用/LiberationSans.ttf
+2#字体16#中文Pro#Assets/AddressableAssets/Font/KK/SourceHanSansBoldCn.asset
+3#字体17#英文Pro#Assets/AddressableAssets/Font/Test/EnPro/LiberationSansEn.asset
+4#字体18#日文Pro#Assets/AddressableAssets/Font/Test/JpPro/BIZUDGothicBJp.asset
+5#字体19#S#Assets/AddressableAssets/Font/通用/SourceHanSansCN-Bold.otf
+6#位图字体#位图字体#Assets/AddressableAssets/Font/KK/文字图片.fontsettings
+7#荆南麦圆体#荆南麦圆体#Assets/AddressableAssets/Font/通用/荆南麦圆体.TTF
+8#中英文像素字体#中英文像素字体#Assets/AddressableAssets/Font/通用/中文像素字体.ttf

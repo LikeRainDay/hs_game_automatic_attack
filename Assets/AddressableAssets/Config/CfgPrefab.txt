@@ -1,0 +1,6 @@
+id#Annotate#EnumName#Path
+id#注释#资源枚举名#资源路径
+int#string#string#string
+1#普通单行左#A1#Assets/AddressableAssets/Mix/TestPrefabs/对话框/普单左汉语.prefab
+2#普通单行右#A2#Assets/AddressableAssets/Mix/TestPrefabs/对话框/普单右汉语.prefab
+3#普通双行左#A3#Assets/AddressableAssets/Mix/TestPrefabs/对话框/普双左汉语.prefab

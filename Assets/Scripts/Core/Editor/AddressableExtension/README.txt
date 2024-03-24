@@ -1,0 +1,7 @@
+使用方式
+
+上方菜单
+AddressableExtension->移除分组
+可以删除全部已设置的group。
+AddressableExtension->自动分组
+会将Assets/AddressableAssets下的资源文件按照所在目录进行自动分组

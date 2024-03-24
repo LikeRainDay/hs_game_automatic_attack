@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FxTemporaire
+  - CinemachineTarget
+  - Role
+  - "\u5C0F\u738B"
+  - Attack
+  - "\u602A\u7269\u95F4\u9694"
+  - Reward
+  - EnemyAttack
+  - PlayerAttack
   layers:
   - Default
   - TransparentFX
@@ -11,6 +20,10 @@ TagManager:
   - 
   - Water
   - UI
+  - Ground
+  - Player
+  - Role
+  - "\u602A\u7269\u95F4\u9694"
   - 
   - 
   - 
@@ -27,16 +40,12 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - MovingPlatform
+  - VisualEffect
+  - Overlay
+  - SubCharacter
+  - Character
   m_SortingLayers:
   - name: Default
     uniqueID: 0

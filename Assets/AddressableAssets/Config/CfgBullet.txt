@@ -1,0 +1,9 @@
+id#Annotate#EnumName#Path
+id#注释#资源枚举名#资源路径
+int#string#string#string
+999#空子弹#A999#None
+1#测试子弹1#A1#Assets/AddressableAssets/Mix/Bullet/TestBullet1.prefab
+2#测试子弹2#A2#Assets/AddressableAssets/Mix/Bullet/TestBullet2.prefab
+3#测试子弹3#A3#Assets/AddressableAssets/Mix/Bullet/TestBullet3.prefab
+4#测试子弹4#A4#Assets/AddressableAssets/Mix/Bullet/TestBullet4.prefab
+5#测试子弹5#A5#Assets/AddressableAssets/Mix/Bullet/TestBullet5.prefab
