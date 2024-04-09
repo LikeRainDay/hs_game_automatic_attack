@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets-AddressableAssets-Audios-Bgms
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets-AddressableAssets-Audios-Bgms
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 83b916c5fc1642a42834f3937eb14089
+  m_SerializeEntries:
+  - m_GUID: 6ed5401fd7cb0934fb2d11270bf2effd
+    m_Address: "Assets/AddressableAssets/Audios/Bgms/1\u670821\u65E5(1).MP3"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Bgms
+  - m_GUID: 6499b726004928440a3c3d53af0eda41
+    m_Address: Assets/AddressableAssets/Audios/Bgms/Voicy_Brotato OST - Power Punch
+      By 2050.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Bgms
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24dfeecdbf54e15499bd92801aeb23cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 429b1cf9d559f79499157f7fab279aa1, type: 2}
+    - {fileID: 11400000, guid: 166e7d711aa856e458984962f0e02fa6, type: 2}

@@ -1,0 +1,20 @@
+id#Annotate#EnumName#Volume#CD#Path
+id#注释#枚举名#音量大小#作为高频音效的CD#路径
+int#string#string#float#float#string
+1#打字#A1#0.8#0.08#Assets/AddressableAssets/Audios/Sounds/打字音效.mp3
+2#加速打字#A2#0.8#0.06#Assets/AddressableAssets/Audio/SoundEffect/Test/文字音效A.mp3
+3#升级#A3#0.8#None#Assets/AddressableAssets/Audios/Sounds/3.mp3
+4#跳跃#A4#0.8#0.1#Assets/AddressableAssets/Audio/SoundEffect/Test/跳跃1.wav
+5#进入飞行#A5#0.8#None#Assets/AddressableAssets/Audio/SoundEffect/Test/进入飞行冲刺.mp3
+6#退出飞行#A6#0.8#None#None
+7#冲刺#A7#0.8#None#Assets/AddressableAssets/Audio/SoundEffect/Test/主角冲刺.mp3
+8#射击#A8#0.8#0.08#Assets/AddressableAssets/Audio/SoundEffect/Test/主角射击3.mp3
+9#倒计时#A9#0.8#None#Assets/AddressableAssets/Audios/Sounds/打字音效.mp3
+10#背景音乐#A10#0.3#None#Assets/AddressableAssets/Audios/Bgms/1月21日(1).MP3
+11#受击#A11#0.8#0.2#Assets/AddressableAssets/Audios/Sounds/雪球命中-03(sfx_snowball_hit-03)_爱给网_aigei_com.mp3
+12#主界面背景音乐#A12#0.5#None#Assets/AddressableAssets/Audios/Bgms/Voicy_Brotato OST - Power Punch By 2050.mp3
+13#受击_刀#A13#0.8#0.1#Assets/AddressableAssets/Audios/Sounds/敌人受击_刀.wav
+14#受击_刀_暴击#A14#0.8#0.1#Assets/AddressableAssets/Audios/Sounds/敌人受击_刀_暴击.wav
+15#吃材料#A15#1#0.1#Assets/AddressableAssets/Audios/Sounds/吃材料2.wav
+16#主角移动#A16#1#0.35#Assets/AddressableAssets/Audios/Sounds/主角移动.wav
+17#主角受击#A17#1#None#Assets/AddressableAssets/Audios/Sounds/主角受击.wav

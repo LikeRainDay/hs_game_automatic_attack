@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets-AddressableAssets-Audios-Sounds
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets-AddressableAssets-Audios-Sounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6823022388af7ca4cae027adb82a2b6a
+  m_SerializeEntries:
+  - m_GUID: b7f1a5758f100f24f8406f3a2c4f7c04
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u4E3B\u89D2\u53D7\u51FB.wav"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: 45d7a6b6e73bf1a4082a26f7fecaf93f
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u4E3B\u89D2\u79FB\u52A8.wav"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: 3bf887f8a2b7fe54192079ec455c2cf8
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u5403\u6750\u6599.wav"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: fbef158667767a044a10ea85392517dc
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u5403\u6750\u65991.wav"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: b1fab293a04e79b4fb2698b7ca59fb17
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u5403\u6750\u65992.wav"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: 3494833ef27ff654b843be8ac4418437
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u6253\u5B57\u97F3\u6548.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: 3c0fb2130e725d041b0142f25daa725d
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u654C\u4EBA\u53D7\u51FB_\u5200.wav"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: f70eb593d4cb77c41abc27a45121c229
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u654C\u4EBA\u53D7\u51FB_\u5200_\u66B4\u51FB.wav"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  - m_GUID: 145cff26aa7dab140b33c9eca7e9264d
+    m_Address: "Assets/AddressableAssets/Audios/Sounds/\u96EA\u7403\u547D\u4E2D-03(sfx_snowball_hit-03)_\u7231\u7ED9\u7F51_aigei_com.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Audios-Sounds
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24dfeecdbf54e15499bd92801aeb23cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b360c7c18ef255245b8130a3dd78eec9, type: 2}
+    - {fileID: 11400000, guid: 87987eb95958c4a42acc88c373a4c68f, type: 2}

@@ -1,0 +1,915 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets-AddressableAssets-Sprites-items
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets-AddressableAssets-Sprites-items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 534e56f35c3064547bf2a9c3a24ef7e2
+  m_SerializeEntries:
+  - m_GUID: 72d27256ffb02424d9fecca3b1d369fe
+    m_Address: Assets/AddressableAssets/Sprites/items/acid.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 4b162d67ee64a794da2129ab6222ff38
+    m_Address: Assets/AddressableAssets/Sprites/items/adrenaline.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 45d119e4a52c13d4aa8ecc08f04c1a49
+    m_Address: Assets/AddressableAssets/Sprites/items/alien_baby.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: e0513f1f50d8ada40923564f3eaaccb4
+    m_Address: Assets/AddressableAssets/Sprites/items/alien_eyes.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b15d8ea433b978b44b6922b31af1d347
+    m_Address: Assets/AddressableAssets/Sprites/items/alien_magic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 053a5da39afd7154c9db384f5a96d675
+    m_Address: Assets/AddressableAssets/Sprites/items/alien_tongue.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 2b83c96c9b2a6c149a370514fe192dfe
+    m_Address: Assets/AddressableAssets/Sprites/items/alloy.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 381153392efa89d4a8b47b8c464c3ecb
+    m_Address: Assets/AddressableAssets/Sprites/items/anvil.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 2c4f20b763233a34580fa9c418302a40
+    m_Address: Assets/AddressableAssets/Sprites/items/baby_elephant.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 1279d213585ca0f4ca6f60e6ac99c143
+    m_Address: Assets/AddressableAssets/Sprites/items/baby_gecko.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: aec9bcb361da3e342be44cb96fda723d
+    m_Address: Assets/AddressableAssets/Sprites/items/baby_with_a_beard.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: d07d4d86390085246922a9f9d7380e6d
+    m_Address: Assets/AddressableAssets/Sprites/items/bag.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 1751d175bf46c6141a3df936b071863e
+    m_Address: Assets/AddressableAssets/Sprites/items/bait.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 3fc759ecce20a2f4291ca85cc11a1265
+    m_Address: Assets/AddressableAssets/Sprites/items/bandana.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 51e68fc8b203cbd418255cc433861916
+    m_Address: Assets/AddressableAssets/Sprites/items/banner.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 6707cdd9ab6264c43bd82c67e2393a58
+    m_Address: Assets/AddressableAssets/Sprites/items/barricade.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: ae728a8f8b322b24d81ffb7e233fbb55
+    m_Address: Assets/AddressableAssets/Sprites/items/bat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: bad8d7fd25eef2046a80a8952709e675
+    m_Address: Assets/AddressableAssets/Sprites/items/beanie.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: fac79bc6851943e44ad93c0271a94e44
+    m_Address: Assets/AddressableAssets/Sprites/items/bean_teacher.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: ae9d7069a0f48544d90a19da9a08a10c
+    m_Address: Assets/AddressableAssets/Sprites/items/big_arms.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 07da979317cae7f48ae7f23845c2122f
+    m_Address: Assets/AddressableAssets/Sprites/items/black_belt.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 209d3d9f98c3ab54084dcefde9f15c39
+    m_Address: Assets/AddressableAssets/Sprites/items/blindfold.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 7e95fac13ebcf1246bea998cbe4adf4a
+    m_Address: Assets/AddressableAssets/Sprites/items/bloody_hand.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: dd75ebc81e3bed442ab71d93e65686fe
+    m_Address: Assets/AddressableAssets/Sprites/items/blood_donation.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 6a6d53ae2a217d341a9b5edc7fbf3372
+    m_Address: Assets/AddressableAssets/Sprites/items/blood_leech.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: ad1c2ac945846394aaf1fdba056b4abf
+    m_Address: Assets/AddressableAssets/Sprites/items/boiling_water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: c18cf0f998d87b9459ff89ee6a4d36cd
+    m_Address: Assets/AddressableAssets/Sprites/items/book.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f0e996b11c3e1294792bd6e0dc22b21e
+    m_Address: Assets/AddressableAssets/Sprites/items/bowler_hat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 6c28713e68325ef4f9637473fbe517cb
+    m_Address: Assets/AddressableAssets/Sprites/items/boxing_glove.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: e04878601a225ca42a68a0187d80a176
+    m_Address: Assets/AddressableAssets/Sprites/items/broken_mouth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 7ab7e643e43bd93448622d49299a1d9f
+    m_Address: Assets/AddressableAssets/Sprites/items/butterfly.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 206bd404c6ec4304f993212c50c52e2c
+    m_Address: Assets/AddressableAssets/Sprites/items/cake.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: edfef9de11b862445b870f777be9593f
+    m_Address: Assets/AddressableAssets/Sprites/items/campfire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 4842c4547b2eb72409b855407e0ac835
+    m_Address: Assets/AddressableAssets/Sprites/items/candle.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: dcf2822387822a349a81c4a6f3bd7dce
+    m_Address: Assets/AddressableAssets/Sprites/items/cape.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b3d0872f855c0fe4184f9e4da90ef799
+    m_Address: Assets/AddressableAssets/Sprites/items/chameleon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: c06dcd62abec0df4c9a109162a915891
+    m_Address: Assets/AddressableAssets/Sprites/items/charcoal.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 399da2e063bd6bb46871d65ad5690c50
+    m_Address: Assets/AddressableAssets/Sprites/items/claw_tree.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 43230d208d73f114f955c7e8088ad8bb
+    m_Address: Assets/AddressableAssets/Sprites/items/clover.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f5114a450e97ebd4394f79717dff5dea
+    m_Address: Assets/AddressableAssets/Sprites/items/coffee.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: c6d2f1aa3241e4d42a761d5d0136164e
+    m_Address: Assets/AddressableAssets/Sprites/items/cog.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 81a430046f4581e45bc6e68ca7b19895
+    m_Address: Assets/AddressableAssets/Sprites/items/community_support.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 5d00e582c2c1a24438a1a1a48183a391
+    m_Address: Assets/AddressableAssets/Sprites/items/compass.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: cb366fc35f5f2214bba91264073c4ecc
+    m_Address: Assets/AddressableAssets/Sprites/items/coupon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 659f4f9377d114c48b44ceec6015cc11
+    m_Address: Assets/AddressableAssets/Sprites/items/crown.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 24d5e1e49545e4a41af2f03707893ae1
+    m_Address: Assets/AddressableAssets/Sprites/items/cute_monkey.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 4c1630a8047725c4aad0002e567a637e
+    m_Address: Assets/AddressableAssets/Sprites/items/cyberball.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 8a4b280d745a12a4ca0bb783eafbcee0
+    m_Address: Assets/AddressableAssets/Sprites/items/cyclops_worm.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: dd03e2b1068bb6e4cb9831fa61b9a074
+    m_Address: Assets/AddressableAssets/Sprites/items/dangerous_bunny.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b93f77d44e1cd9e4c8f7ef9107164eca
+    m_Address: Assets/AddressableAssets/Sprites/items/defective_steroids.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 8dde49a6719fd5c449b014c60bdfa34c
+    m_Address: Assets/AddressableAssets/Sprites/items/diploma.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: ae884f938c78dda40be68216c9b3d4bd
+    m_Address: Assets/AddressableAssets/Sprites/items/duct_tape.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 895d83d5a7f0fa743b118ff1ef9a8562
+    m_Address: Assets/AddressableAssets/Sprites/items/dynamite.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 7db318e71e9fc8944a59a89523d65199
+    m_Address: Assets/AddressableAssets/Sprites/items/energy_bracelet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 0fef28c1f62ac8f489a3537deafc735a
+    m_Address: Assets/AddressableAssets/Sprites/items/estys_couch.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 5f51c301beb9ad149974687723559383
+    m_Address: Assets/AddressableAssets/Sprites/items/exoskeleton.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f7c8ca81b96244749889ddb3880bf3e7
+    m_Address: Assets/AddressableAssets/Sprites/items/explosive_shells.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 708f17323ffaa1b4abe3339185ab6f54
+    m_Address: Assets/AddressableAssets/Sprites/items/extra_stomach.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: c0e66b7ad9ede724d9f5dbc1dccba490
+    m_Address: Assets/AddressableAssets/Sprites/items/eye_surgery.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 12dc1880fe4790a4ca18adf78ceba965
+    m_Address: Assets/AddressableAssets/Sprites/items/fairy.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 7d4e3309bf332274aa74f1a91e3ff414
+    m_Address: Assets/AddressableAssets/Sprites/items/fertilizer.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 6f3d22d0797e79741b18ac1a421a686d
+    m_Address: Assets/AddressableAssets/Sprites/items/fin.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 1fd653c7bfd95f5489bc145f0a962d40
+    m_Address: Assets/AddressableAssets/Sprites/items/flame_turret.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 3a900a3154d7f9a4990edae9043c8c14
+    m_Address: Assets/AddressableAssets/Sprites/items/focus.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: d99f78928e5a6cc4e97d68f88326d6c8
+    m_Address: Assets/AddressableAssets/Sprites/items/fuel_tank.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 3109b982951b98247ad51655264cd603
+    m_Address: Assets/AddressableAssets/Sprites/items/gambling_token.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: ebebae1b4d9e9384daed91fb73ab82c5
+    m_Address: Assets/AddressableAssets/Sprites/items/garden.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f31fda621dac5914ebd49f41b18e12f3
+    m_Address: Assets/AddressableAssets/Sprites/items/gentle_alien.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 12fd71dc119c1394aac3d0ee73a3eac1
+    m_Address: Assets/AddressableAssets/Sprites/items/giant_belt.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 4f31f02316ebb9045a98b96c8718709b
+    m_Address: Assets/AddressableAssets/Sprites/items/glasses.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 1648b7f2cb848b4499526302eb603209
+    m_Address: Assets/AddressableAssets/Sprites/items/glass_cannon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: fd6ded836c22ec549b4f4947c9352a74
+    m_Address: Assets/AddressableAssets/Sprites/items/gnome.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: d1e944fcc29eda34486cd6efb3d887e8
+    m_Address: Assets/AddressableAssets/Sprites/items/goat_skull.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 1bb8d6f8e128af34290c3317ade7f75d
+    m_Address: Assets/AddressableAssets/Sprites/items/grinds_magical_leaf.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f172f76f84f24c04b82ce1099029cdbf
+    m_Address: Assets/AddressableAssets/Sprites/items/gummy_berserker.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: d30011acda41acb48864d88f63833936
+    m_Address: Assets/AddressableAssets/Sprites/items/handcuffs.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 1cb8bbc5c7576f345982704f8e2e3463
+    m_Address: Assets/AddressableAssets/Sprites/items/head_injury.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 2f6aa6602e0542843964af26fae0fc12
+    m_Address: Assets/AddressableAssets/Sprites/items/healing_turret.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 3addb5e44b49e724a86479c90e10c7c0
+    m_Address: Assets/AddressableAssets/Sprites/items/heavy_bullets.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 54ac7cfa555798c4790f08744e9468d4
+    m_Address: Assets/AddressableAssets/Sprites/items/hedgehog.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b499b348ca3842741bcaca76859421f4
+    m_Address: Assets/AddressableAssets/Sprites/items/helmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 4f2092a909f4736499a4f187d74d0655
+    m_Address: Assets/AddressableAssets/Sprites/items/hunting_trophy.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 74aea05d24de31f409257b61027c4de0
+    m_Address: Assets/AddressableAssets/Sprites/items/improved_tools.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: c31d65231057fa14db795ac25d0f1bd9
+    m_Address: Assets/AddressableAssets/Sprites/items/injection.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 528c3b73e2390d34abbdf1fbcd023dc5
+    m_Address: Assets/AddressableAssets/Sprites/items/insanity.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: ede4e126d20ae3844afd47f1bd1e7470
+    m_Address: Assets/AddressableAssets/Sprites/items/jetpack.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 8167bb696eebbf54aa2004376188e808
+    m_Address: Assets/AddressableAssets/Sprites/items/landmines.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: c5c514b10fe633044957da8886bb9d7a
+    m_Address: Assets/AddressableAssets/Sprites/items/laser_turret.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: df8a605f3df15e54c9d7c179b928fda8
+    m_Address: Assets/AddressableAssets/Sprites/items/leather_vest.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 36adddff29c2bb04db4baf956ae568ec
+    m_Address: Assets/AddressableAssets/Sprites/items/lemonade.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 0e4ce75597c337b438c2471c7d0204d1
+    m_Address: Assets/AddressableAssets/Sprites/items/lens.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 896aa5ede8789bb4099fa68621759a05
+    m_Address: Assets/AddressableAssets/Sprites/items/little_frog.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: de6c07ce1422e164ea63353c4594a478
+    m_Address: Assets/AddressableAssets/Sprites/items/little_muscley_dude.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 585f24c220aec894bad4956c2ea46b3b
+    m_Address: Assets/AddressableAssets/Sprites/items/living_booger.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 787f59e71672ff141b1bbfdad23b377d
+    m_Address: Assets/AddressableAssets/Sprites/items/lost_duck.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 151a8da52c5b0d047b90e4c6bf7696a0
+    m_Address: Assets/AddressableAssets/Sprites/items/lucky_charm.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 227a5d9f64f36c046a521c0c892f7e70
+    m_Address: Assets/AddressableAssets/Sprites/items/lucky_coin.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 3b44d1e6a5ba4be47944ac933a447d48
+    m_Address: Assets/AddressableAssets/Sprites/items/lumberjack_shirt.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 74ccbe7fd3d0b3c40929ab9464c7057d
+    m_Address: Assets/AddressableAssets/Sprites/items/lure.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 50a04c9aba1129841a1bbb393d864f51
+    m_Address: Assets/AddressableAssets/Sprites/items/mammoth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f64bb5201a7a8824e93197c4735615e4
+    m_Address: Assets/AddressableAssets/Sprites/items/mastery.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: bbf1eaae5ba081b489f313b3eff66e68
+    m_Address: Assets/AddressableAssets/Sprites/items/medal.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: afc997de0a7cfba44bccea3d00ff6aaf
+    m_Address: Assets/AddressableAssets/Sprites/items/medikit.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 531b1c0213237054d8820172b7e455f7
+    m_Address: Assets/AddressableAssets/Sprites/items/metal_detector.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 0c2475d7cfe6d984f9341efc312b7d8f
+    m_Address: Assets/AddressableAssets/Sprites/items/metal_plate.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: e7bd0f0339b39a544b409e4af6c59ea3
+    m_Address: Assets/AddressableAssets/Sprites/items/missile.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 30882bc3226815043b814a2a506beadb
+    m_Address: Assets/AddressableAssets/Sprites/items/mouse.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: edc48504bc9d61a4ca954d949934ee17
+    m_Address: Assets/AddressableAssets/Sprites/items/mushroom.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 05064fd31ed5af2468fa88266d16278b
+    m_Address: Assets/AddressableAssets/Sprites/items/mutation.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 7c3c95ea0b255b24da1c2ad09e767c4a
+    m_Address: Assets/AddressableAssets/Sprites/items/night_goggles.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 148217deca6f3bd4d906a5b6aaf0c1e5
+    m_Address: Assets/AddressableAssets/Sprites/items/octopus.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 507f655c47c38794384c47b8a6e77df6
+    m_Address: Assets/AddressableAssets/Sprites/items/padding.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 603423844aeb5754db69912beef6d15c
+    m_Address: Assets/AddressableAssets/Sprites/items/panda.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 42c590829a5e4b9489f4d16a0e7edf4d
+    m_Address: Assets/AddressableAssets/Sprites/items/peaceful_bee.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 93a64dda5bb599c48bb975e0f88ec941
+    m_Address: Assets/AddressableAssets/Sprites/items/peacock.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 43782466d7bc7aa4fb0c1b5373eafb40
+    m_Address: Assets/AddressableAssets/Sprites/items/pencil.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 9f124543ae7f2be4383197a1a6fb2de4
+    m_Address: Assets/AddressableAssets/Sprites/items/piggy_bank.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 66e01f39d92942444b00bd4a34df5929
+    m_Address: Assets/AddressableAssets/Sprites/items/plant.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f4aff4f9ee4d0f143b0b1055f0d4be0f
+    m_Address: Assets/AddressableAssets/Sprites/items/plastic_explosive.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 0ab93f2dbeb0d9044b7618d7da2e2bb4
+    m_Address: Assets/AddressableAssets/Sprites/items/pocket_factory.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: dad45d7213c028342aeee3456e2f99c0
+    m_Address: Assets/AddressableAssets/Sprites/items/poisonous_tonic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: e767a97142d422e4eb5702194c2dfb74
+    m_Address: Assets/AddressableAssets/Sprites/items/potato.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 091d2e27872ad554681c659ed2f755b3
+    m_Address: Assets/AddressableAssets/Sprites/items/potion.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 1059892281f60c046847840bc112bff2
+    m_Address: Assets/AddressableAssets/Sprites/items/power_generator.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 5f9432cf8b33d13468373d34703c10a5
+    m_Address: Assets/AddressableAssets/Sprites/items/propeller_hat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b781b41d733438143b2e227dfdf862d6
+    m_Address: Assets/AddressableAssets/Sprites/items/pumpkin.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f805eef76bbecc64681692f03a769877
+    m_Address: Assets/AddressableAssets/Sprites/items/recycling_machine.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 0a993f376b174974c85918aa4ab0b71e
+    m_Address: Assets/AddressableAssets/Sprites/items/retromations_hoodie.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: a95c0ab6de9b7f6429ff565e677da836
+    m_Address: Assets/AddressableAssets/Sprites/items/ricochet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 5f197c805ea040547918813e9e120f4b
+    m_Address: Assets/AddressableAssets/Sprites/items/riposte.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 5e28584a42d42e14fad7b28f7d5c2a10
+    m_Address: Assets/AddressableAssets/Sprites/items/rip_and_tear.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: fde1bb6463eb4db4b89fa71733a6e964
+    m_Address: Assets/AddressableAssets/Sprites/items/ritual.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 03b0ac7968a98a9488bad7249d66d8c2
+    m_Address: Assets/AddressableAssets/Sprites/items/robot_arm.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 66b4054d29f90f64a9adbdb134fb6300
+    m_Address: Assets/AddressableAssets/Sprites/items/rocket_turret.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 49295967e8716bf4f9e51f31ff8c27db
+    m_Address: Assets/AddressableAssets/Sprites/items/sad_tomato.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 711e3194a9c024441b666d2136d9e08c
+    m_Address: Assets/AddressableAssets/Sprites/items/scar.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 35c666b531cc5f34e8f8828cfb28ff50
+    m_Address: Assets/AddressableAssets/Sprites/items/scared_sausage.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: a99985087f799b64b89be416afe2a84f
+    m_Address: Assets/AddressableAssets/Sprites/items/schackles.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f47f3e99b3baa3f42b7bb4fb49ea5703
+    m_Address: Assets/AddressableAssets/Sprites/items/scope.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 15630aeb131f402439d7e29e86cfbf5a
+    m_Address: Assets/AddressableAssets/Sprites/items/serpent.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 56a4685a14deb4a4a8189127728b024b
+    m_Address: Assets/AddressableAssets/Sprites/items/shady_potion.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: a2a9238048a0ac34fb7669ce1ec4cfc2
+    m_Address: Assets/AddressableAssets/Sprites/items/sharp_bullet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: d0c1172ac4a29184cbfc8e2a9696c400
+    m_Address: Assets/AddressableAssets/Sprites/items/shmoop.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: a0f7e44a586e0564c9bc28b80f7cc39d
+    m_Address: Assets/AddressableAssets/Sprites/items/sifds_relic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 9152864f26bc9834584ee784623b8114
+    m_Address: Assets/AddressableAssets/Sprites/items/silver_bullet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: fe1e94f183998f74c8d9ef0cb0d44042
+    m_Address: Assets/AddressableAssets/Sprites/items/small_magazine.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: a77af93aece66574792d0e3bb81c6041
+    m_Address: Assets/AddressableAssets/Sprites/items/snail.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b71ed47171b5eed42ac214ca702a1982
+    m_Address: Assets/AddressableAssets/Sprites/items/spicy_sauce.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: f7455284547665d49b1235cf62881962
+    m_Address: Assets/AddressableAssets/Sprites/items/spider.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 3f7c00df9ea6373448948e546d998f5b
+    m_Address: Assets/AddressableAssets/Sprites/items/statue.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: e138414d694546645b08051696296ea6
+    m_Address: Assets/AddressableAssets/Sprites/items/stone_skin.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 58dd39acb9c2a3344a65df537d12c880
+    m_Address: Assets/AddressableAssets/Sprites/items/strange_book.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 7579902aac127294c8eb7c74903435e4
+    m_Address: Assets/AddressableAssets/Sprites/items/sunglasses.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 367fdb5f5a42e624a9cde38365a8e48b
+    m_Address: Assets/AddressableAssets/Sprites/items/tardigrade.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: c90ef01efdba735478347e0035695adc
+    m_Address: Assets/AddressableAssets/Sprites/items/tentacle.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 8746eb55c79c6b14c80c1a6584b0e2ae
+    m_Address: Assets/AddressableAssets/Sprites/items/terrified_onion.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 2e5f28a07dec0ac4aa800b4593f22d13
+    m_Address: Assets/AddressableAssets/Sprites/items/toolbox.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 55962b70c50df6944b3f7f3e14c6666b
+    m_Address: Assets/AddressableAssets/Sprites/items/torture.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: d5a2c20dacc29404497d47d39ff20c78
+    m_Address: Assets/AddressableAssets/Sprites/items/toxic_sludge.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 0784f5feb8c2e594182904cdbc7ecb09
+    m_Address: Assets/AddressableAssets/Sprites/items/tractor.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 3c3ed896f77d79546baf13649c718228
+    m_Address: Assets/AddressableAssets/Sprites/items/tree.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 9cb5fe516d6be6944845e5cea5fc5073
+    m_Address: Assets/AddressableAssets/Sprites/items/triangle_of_power.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 56d6c2707c8707b4f9c2cd0ca02f151a
+    m_Address: Assets/AddressableAssets/Sprites/items/turret.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b20f96e374ab7384ab7b70ead21f4cf9
+    m_Address: Assets/AddressableAssets/Sprites/items/tyler.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: bdedec5e15a38004d856e9ff3cff1979
+    m_Address: Assets/AddressableAssets/Sprites/items/ugly_tooth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: da1fcc0b45f7d6a4a97f67b20e9e19fc
+    m_Address: Assets/AddressableAssets/Sprites/items/vigilante_ring.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 81d09ec25f0d79e4bb9db45752cf535a
+    m_Address: Assets/AddressableAssets/Sprites/items/wandering_bot.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b7e4d74de6463ae49b77433abc9c474f
+    m_Address: Assets/AddressableAssets/Sprites/items/warrior_helmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 138a3d3d343ce10489280ece09a7e75e
+    m_Address: Assets/AddressableAssets/Sprites/items/weird_food.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b1522224f399c5d4d974099e84946b08
+    m_Address: Assets/AddressableAssets/Sprites/items/weird_ghost.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 7b7156796e3bf934f86ff2070bb8281b
+    m_Address: Assets/AddressableAssets/Sprites/items/well_rounded 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 000bd4ada3f58224ab7e764a92efec27
+    m_Address: Assets/AddressableAssets/Sprites/items/wheat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 4c35737e623d194408b6c21b4475c148
+    m_Address: Assets/AddressableAssets/Sprites/items/wheelbarrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 55041b9f5b4290642999ee1a19e799ff
+    m_Address: Assets/AddressableAssets/Sprites/items/whetstone.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 60c527c99a110194b9e092b3811e72b6
+    m_Address: Assets/AddressableAssets/Sprites/items/white_flag.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: b1b46505891d2694bb7fe40fe0a8d610
+    m_Address: Assets/AddressableAssets/Sprites/items/wings.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 4f807d4f4a53d3f478a87973ebde4158
+    m_Address: Assets/AddressableAssets/Sprites/items/wisdom.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  - m_GUID: 9863923f4aa534c4ba3c5b641eebf629
+    m_Address: Assets/AddressableAssets/Sprites/items/wolf_helmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Sprites-items
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24dfeecdbf54e15499bd92801aeb23cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 83d7efbf67a41a84993196754b23b42e, type: 2}
+    - {fileID: 11400000, guid: ce80b3449a395b149b05543c6b829bfe, type: 2}

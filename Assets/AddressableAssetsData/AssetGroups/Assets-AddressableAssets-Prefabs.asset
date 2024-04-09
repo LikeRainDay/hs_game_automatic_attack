@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets-AddressableAssets-Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets-AddressableAssets-Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 86a43f3b332e27f48b5ade592eabe374
+  m_SerializeEntries:
+  - m_GUID: c671948bc566fb14e903bfab444a99a4
+    m_Address: Assets/AddressableAssets/Prefabs/Enemy1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 33c7230333906aa47b464e128f8fd175
+    m_Address: Assets/AddressableAssets/Prefabs/Enemy2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 84b36173569e8764390798a04570d1b5
+    m_Address: Assets/AddressableAssets/Prefabs/Enemy3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: c7d97ec2fd556e841b598c66eff818be
+    m_Address: Assets/AddressableAssets/Prefabs/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 946e206d618b32d4fa465880749d4904
+    m_Address: "Assets/AddressableAssets/Prefabs/\u52A0\u6210\u5143\u7D20.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 0c5b89b56c626e247a7b9852a9f49164
+    m_Address: "Assets/AddressableAssets/Prefabs/\u53D7\u51FB\u7279\u6548 1.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: b35b6ab53147616488479b5391694810
+    m_Address: "Assets/AddressableAssets/Prefabs/\u53D7\u51FB\u7279\u6548.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 65ffeadda38de2445a25866bc92b9a30
+    m_Address: "Assets/AddressableAssets/Prefabs/\u53F3\u4FA7\u6309\u94AE.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: bdeac5a9465bfa24095ef53dbbf909a6
+    m_Address: "Assets/AddressableAssets/Prefabs/\u5546\u54C1\u5143\u7D20.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: db5f9774f8b5c5842a8422bb1bdb2f1c
+    m_Address: "Assets/AddressableAssets/Prefabs/\u573A\u666F.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 1431dc2f0573be74282838422d077bd3
+    m_Address: "Assets/AddressableAssets/Prefabs/\u5956\u52B1.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: fbc61dba48ec18a4ebf3071363928f42
+    m_Address: "Assets/AddressableAssets/Prefabs/\u5C5E\u6027\u5143\u7D201.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 5b4420d7525fa7e4a8fb9c4d0b79a742
+    m_Address: "Assets/AddressableAssets/Prefabs/\u5C5E\u6027\u5143\u7D202.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 5dec1272b7f404b4e96caa430e991877
+    m_Address: "Assets/AddressableAssets/Prefabs/\u5C5E\u6027\u56FE\u6807.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 770c52a857f85114eb90f21fe74e1216
+    m_Address: "Assets/AddressableAssets/Prefabs/\u5C5E\u6027\u9875\u9762.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 0fbc21b0b1365d24282451acb75bb543
+    m_Address: "Assets/AddressableAssets/Prefabs/\u6295\u5F71.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 854ab4d58a7946842a5e931d54291fdf
+    m_Address: "Assets/AddressableAssets/Prefabs/\u6309\u94AE.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 06ae4b6c1a2caea4d850190b359848ae
+    m_Address: "Assets/AddressableAssets/Prefabs/\u654C\u4EBA\u751F\u6210\u56681.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 1e5ebc66c9868e14794954c92cfb2e50
+    m_Address: "Assets/AddressableAssets/Prefabs/\u6C34\u679C.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 113e5d78769191b4086f39c8ce0daae6
+    m_Address: "Assets/AddressableAssets/Prefabs/\u74E2\u5B57\u9884\u5236\u4F53 1.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: fc779ab5d934fdc449698165bcd1ab5f
+    m_Address: "Assets/AddressableAssets/Prefabs/\u74E2\u5B57\u9884\u5236\u4F53.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 44d94aa1f015d3c44ac8eeea3c265694
+    m_Address: "Assets/AddressableAssets/Prefabs/\u7EA2\u53C9.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: e822219e24610ac4fbe667c20a0d980f
+    m_Address: "Assets/AddressableAssets/Prefabs/\u7EFF\u53C9.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  - m_GUID: 75a37c6ef8bd9b549bfbee16f42e42e4
+    m_Address: "Assets/AddressableAssets/Prefabs/\u9053\u5177\u5143\u7D20.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Assets-AddressableAssets-Prefabs
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24dfeecdbf54e15499bd92801aeb23cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 44284434d2473594983133c81d610e28, type: 2}
+    - {fileID: 11400000, guid: 67480264b3c022a42981f628db5b0d69, type: 2}
